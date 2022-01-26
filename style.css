@@ -5223,6 +5223,7 @@ button.visitinbutton {
 section.benefits button {
     font-family: 'Organetto UltraBold Ext';
     font-size: x-large;
+    color: #fff;
 }
 .benefits h1, .benefits h2 {
     font-size: 46px;

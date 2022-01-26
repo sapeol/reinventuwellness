@@ -1,0 +1,2117 @@
+
+@media (min-width: 1400px) {
+    #newlrelese h3.product-title {
+        font-size: 1.5em;
+    }
+     
+    }
+    
+    @media (min-width: 1200px) {
+    .health-suppliments-page .h4.grid-view-item__title.product-card__title {
+        min-height: 60px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        font-size: 1.6rem;
+    }
+    
+       .signup input {
+        width: 25%;
+    }
+      .desc-container {
+        max-width: 1140px;
+    }
+        .h4.grid-view-item__title.product-card__title {
+        min-height: 60px;
+          display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+          justify-content: center;
+          font-size:1.6rem;
+    }
+      #Collection ul li:nth-child(1) p {
+        min-height: 40px;
+    }
+      .product-card p{
+          min-height: 85px;
+    }
+    
+      .apparel-hero-info{
+      padding: 6em!important }
+    
+      #newlrelese h1 {
+          margin-top: 4rem !important;
+        margin-bottom: -3px;
+        padding: 0;
+       
+    }
+      .collection-header #newlrelese h1{
+        margin-top: 2rem !important;
+      }
+        .h2,
+        h2 {
+            font-size: 1.25rem;
+        }
+        
+        .h3,
+        h3 {
+            font-size: 1.25rem;
+        }
+        
+        .h1,
+        h1 {
+            font-size: 2.25rem;
+        }
+    .miami-vice-bundle h4 {
+        font-size: 0;
+    }
+    .product-single__description.rte.fullwidth {
+        width: 100%;
+        display: table;
+    }
+    .bundle-item {
+        margin-bottom: 30px;
+    }
+    
+      
+    /* .bundle-item:nth-child(3) img.bundle__img {
+        width: 468px;
+        height: 460px;
+    }
+    .bundle-item:nth-child(4) img.bundle__img {
+        width: 443px;
+        height: 478px;
+    } */
+      
+    .bundle__info h3 {
+        font-family: 'Montserrat';
+        font-weight: 700;
+        font-size: 30px;
+          background: -webkit-linear-gradient(
+    45deg ,#c533c5,#32a3cf);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      margin-bottom:0;
+    }
+    .bundle__info p {
+           font-family: Montserrat;
+        font-weight: 300;
+        font-size: 24px;
+          background: -webkit-linear-gradient(
+    45deg ,#c533c5,#32a3cf);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      margin-bottom:0;
+    }
+    
+    
+    }
+    @media only screen and (min-width: 1192px) {
+        #customersreviewsection-iv {
+            background-size: 120%;
+        }
+    
+    }
+    
+    @media (max-width: 1550px)  and (min-width: 1200px) {
+    
+      .sb-wrapper p {
+        font-size: 12px;
+    
+        
+      }
+      .sb-wrapper {
+        padding: 0.5em;
+    }
+    
+    }
+    @media (max-width: 1800px)  and (min-width: 1701px) {
+    .health-suppliments-page .product-card .gr-btn2 {
+        font-size: 14PX;
+    }
+    .health-suppliments-page .product-card p {
+        font-size: 13PX;
+    }
+    .health-suppliments-page .h4.grid-view-item__title.product-card__title {
+    font-size: 1.1rem;
+    }
+    }
+    @media (max-width: 1700px)  and (min-width: 1500px) {
+    .health-suppliments-page .h4.grid-view-item__title.product-card__title {
+        font-size: 1.4rem;
+    }
+    .health-suppliments-page .collection-display .grid__item {
+        padding: 0px 15px;
+    }
+    }
+    @media (max-width: 1499px)  and (min-width: 1200px) {
+    .health-suppliments-page .h4.grid-view-item__title.product-card__title {
+        font-size: 1rem;
+    }
+    .health-suppliments-page .collection-display .grid__item {
+        padding: 0px 10px;
+    }
+    .health-suppliments-page .gr-btn-pro {
+        font-size: .7rem;
+    }
+    .health-suppliments-page .product-card .gr-btn2 {
+        font-size: 12PX;
+     
+    }
+    .health-suppliments-page .icon {
+        width: auto;
+        height: 20px;
+    }
+    .product-card p {
+        min-height: 115px;
+    }
+    .health-suppliments-page .gr-btn2.py-2.mt-3.text-white {
+        padding-top: 0.7rem!important;
+        padding-bottom: 0.7rem!important;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    }
+    @media (max-width: 1499px)  and (min-width: 1200px) {
+    .health-suppliments-page .h4.grid-view-item__title.product-card__title {
+        font-size: 1rem;
+    }
+    .health-suppliments-page .collection-display .grid__item {
+        padding: 0px 10px;
+    }
+    .health-suppliments-page .gr-btn-pro {
+        font-size: .7rem;
+    }
+    .health-suppliments-page .product-card .gr-btn2 {
+        font-size: 12PX;
+     
+    }
+    .health-suppliments-page .icon {
+        width: auto;
+        height: 20px;
+    }
+    .product-card p {
+        min-height: 115px;
+    }
+    .health-suppliments-page .gr-btn2.py-2.mt-3.text-white {
+        padding-top: 0.7rem!important;
+        padding-bottom: 0.7rem!important;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    }
+    @media only screen and (min-width: 1920px) {
+    .custom-collection {
+        background-size: cover !important;
+    }
+    }
+    @media (max-width:1680px) {
+        h3.olympia,
+        .newcounter_inner {
+            max-width: 1020px;
+        }
+        .hero_product {
+            top: 7%;
+        }
+        .newtimerheadersection h2 {
+            letter-spacing: 2px;
+        }
+        h3.olympia {
+            font-size: 28px;
+        }
+    } 
+    
+    @media (max-width:1500px) {
+        .hero_product img {
+            object-position: 30% 100%;
+        }
+        h3.olympia,
+        .newcounter_inner {
+            max-width: 900px;
+        }
+    }
+    @media only screen and (max-width:1450px) {
+      .announcement-img{
+    background: #323232;
+     
+    }
+        .levels-content h3 {
+            font-size: 36px;
+        }
+        
+        .levels-content:before {
+            top: 62px;
+        }
+        
+        .levels-content li {
+            font-size: 25px;
+            line-height: 37px;
+        }
+    }
+    @media (max-width:1440px) {
+        .hero_product {
+            top: auto;
+            bottom: 0;
+            height: auto;
+        }
+        .hero_product img {
+            height: auto;
+        }
+        .newtimerheadersection .timecountsection p {
+            min-height: 90px;
+            min-width: 90px!important;
+            font-size: 32px;
+        }
+    
+        .testosterone_details h3 {
+            font-size: 24px;
+        }
+        
+        .testosterone_details p {
+            font-size: 18px;
+        }
+        
+        button.testosterone_btn {
+            font-size: 20px;
+        }
+          .hero-section-iv p {
+            font-size: 28px;
+            line-height: 40px;
+        }
+          .hero-section-iv button{
+            font-size: 20px;
+            padding: 13px 100px;
+        }
+          button.visitinbutton{
+              font-size: 21px;
+        }
+          .hydratesection-iv P{
+              font-size: 18px;
+            line-height: 28px;
+        }
+          .hydratesection-iv h4 {
+            font-size: 30px;
+        }
+          .hydratedestailsection-iv .px-lg-5 {
+            padding: 0 30px!important;
+        }
+          .benefits h1, .benefits h2{
+              font-size: 36px;
+        }
+          .benefits p,.bg-white.clienttestimonials p{
+              font-size: 18px;
+            line-height: 28px;
+        }
+          .hydratesection-iv img{
+              height: 90px;
+        }
+          
+          
+    }
+    
+    @media (max-width:1380px) {
+        .newtimerheadersection h2 {
+            letter-spacing: 1px;
+            font-size: 26px;
+        }
+        .newtimerheadersection p.exclusive {
+            font-size: 22px;
+            word-spacing: 0px;
+            letter-spacing: 10px;
+        }
+        h3.olympia {
+            font-size: 24px;
+        }
+    }
+    
+    @media (max-width:1270px) {
+        .newtimerheadersection {
+            padding: 10rem 0;
+            height: auto;
+        }
+        .newcounter_inner,
+        h3.olympia {
+            max-width: 750px;
+        }
+    }
+    @media (max-width:1205px) {
+      #SiteNav li {
+        padding: 0 0px;
+    
+    }
+      .grid__item {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+      .banner-img {
+        display: none;
+    }
+        h2.step-head {
+            font-size: 18px;
+        }
+        
+        .testosterone_details h3 {
+            font-size: 20px;
+        }
+        
+        .testosterone-section p {
+            font-size: 18px;
+        }
+        
+        button.percent_btn {
+            font-size: 14px;
+        }
+        
+        button.testosterone_btn {
+            font-size: 16px;
+        }
+        
+        button.hero-btn {
+            bottom: -26px;
+            width: 80%;
+            font-size: 16px;
+        }
+        
+        .step-btn-main:after,
+        .step-btn-main:before {
+            bottom: -55px;
+        }
+        
+        h2.step-head:after,
+        h2.step-head:before {
+            top: -25px;
+        }
+        
+        .step-text {
+            margin: auto;
+            text-align: center;
+            margin: 2em auto;
+        }
+        
+        .newclienttestimonials button.btn {
+            font-size: 14px !important;
+        }
+        
+        .steps img {
+            vertical-align: middle;
+            display: block;
+            margin: auto;
+        }
+        /* big landscape tablets, laptops, and desktops */
+    }
+    
+    #ProductSection-product-template {
+        margin-top: 2em;
+    }
+    @media only screen and (max-width: 1366px) {
+        .therapy-plans-box h4,
+      .therapy-plans-detail-box h4 {
+        font-size: 22px;
+      }
+       
+    .sb-wrapper {
+         padding: 1em;
+    }
+      .product-card .gr-btn2 {
+        text-align: inherit;
+        font-size: 12PX;}
+    .sidebar .sb-wrapper .gr-btn2 {
+        font-size: 0.8em!important;
+    }
+    }
+    @media  (max-width:1199px) {
+        .founderreinventusection {
+        margin-top: 230px;
+      }
+      .videoourstorysection video {
+        position: absolute;
+        top: -130px;
+      }
+    
+        header#headersection {
+            padding: 0;
+            position: relative;
+        }
+        /*     .navbar-brand img {max-width:200px;} */
+        /*     .navbar{box-shadow: 0 2px 5px rgb(0 0 0 / 20%);} */
+        
+        .navbar-brand img {
+            max-width: 155px;
+        }
+        .levels-content:before {
+            top: 57px;
+            width: 3px;
+        }
+        
+        .levels-content h3 {
+            font-size: 30px;
+            padding-left: 90px;
+        }
+        
+        .levels-content ol {
+            padding: 20px 0 0px 90px;
+        }
+          .hero-section-iv{
+          background-position-x: 30%;
+        } 
+          .hero-section-iv p {
+            font-size: 22px;
+            line-height: 30px;
+        }
+          .hero-section-iv button {
+            font-size: 12px;
+            padding: 13px 50px;
+        }
+          .hero-section-iv h2 {
+            font-size: 36px;
+        }
+      
+    }
+    @media only screen and (max-width: 1192px) {
+      
+      .product-single__title {
+         text-align: center;
+    }
+    .social-sharing {
+     padding: 0 !important;
+    }
+    .price__pricing-group {
+         display: block;
+    }
+      #customersreviewsection-iv .slick-prev:before {
+        margin-left: 4rem;
+    }
+    #customersreviewsection-iv .customers-review .slick-next {
+        margin-right: 0rem;
+    }
+        .hero-section {
+            height: 800px;
+        }
+      .hydratesection-iv h4 {
+        font-size: 24px;
+      }
+    .benefits h1, .benefits h2 {
+        font-size: 28px;
+    }
+        
+        .hero-section h2 {
+            font-size: 45px;
+        }
+        
+        .hero-section p {
+            font-size: 26px;
+        }
+        
+        .aboutvideo-section {
+            margin-top: -100px;
+        }
+        
+        .testosterone-section {
+            background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/testosterone_bottom_bg.png?v=1628178577);
+            background-position: unset;
+            background-repeat: no-repeat;
+            background-size: 150% 100%;
+            color: #fff;
+            padding: 100px 0;
+        }
+        
+        button.slider-btn {
+            margin-bottom: 32px;
+        }
+        h2.step-head:after,
+        h2.step-head:before {
+            width: 100px;
+        }
+        
+        .newclienttestimonials button {
+            font-size: 22px !important;
+        }
+        
+        .newclienttestimonials .testimonialhead h2 {
+            padding-top: 10rem;
+        }
+    }
+    @media (max-width:1160px) {
+        .newcounter_inner,
+        h3.olympia {
+            max-width: 100%;
+        }
+        .hero_product img {
+            width: 80%;
+        }
+        .timecountsection {
+            justify-content: flex-end!important;
+        }
+        .newcounter_inner {
+            text-align: right;
+            background-image: -webkit-linear-gradient( 0deg, rgb(221 67 152 / 78%) 0%, rgb(0 174 239 / 78%) 100%);
+            background-image: -webkit-linear-gradient( 0deg, rgb(221 67 152 / 78%) 0%, rgb(0 174 239 / 78%) 100%);
+            background-image: -webkit-linear-gradient( 0deg, rgb(221 67 152 / 78%) 0%, rgb(0 174 239 / 78%) 100%);
+        }
+        h3.olympia {
+            text-align: right;
+            padding: 20px 40px;
+            background-image: -webkit-linear-gradient( 0deg, rgb(255 255 255 / 78%) 0%, rgb(255 255 255 / 78%) 100%);
+            background-image: -webkit-linear-gradient( 0deg, rgb(255 255 255 / 78%) 0%, rgb(255 255 255 / 78%) 100%);
+            background-image: -webkit-linear-gradient( 0deg, rgb(255 255 255 / 78%) 0%, rgb(255 255 255 / 78%) 100%);
+        }
+    }
+    @media only screen and (max-width: 992px) {
+        .hero-section h2 {
+            font-size: 40px;
+        }
+        
+        .hero-section p {
+            font-size: 22px;
+        }
+        
+        .finalambassadoratheleteform .formsection input::placeholder {
+            font-size: 24px;
+        }
+        
+        .finalambassadoratheleteform h2 {
+            font-size: 30px;
+        }
+        
+        .finalambassadoratheleteform button {
+            font-size: 22px;
+        }
+        
+        .finalambassadoratheleteform p {
+            font-size: 22px;
+        }
+            .newclienttestimonials button {
+            font-size: 18px !important;
+            left: 45%;
+            transform: translate(-35%);
+            bottom: -35px;
+        }
+      .newclienttestimonials button:hover{
+            transform: translate(-35%) scale(1.07) !important;
+            
+        }
+        
+        .newclienttestimonials .testimonialhead h2 {
+            padding-top: 10rem;
+        }
+        
+        .timecountsection {
+            justify-content: flex-start;
+        }
+    
+    }
+    @media (max-width:991px) {
+      .collection-features {
+        width: fit-content;
+        margin: auto;
+        vertical-align: middle;
+    }
+      .collection-features .feature {
+    
+        display: flex;
+     
+        align-items: center;
+    }
+      ourstoryherosection h2 {
+        font-size: 40px;
+      }
+      .ourstoryherosection p {
+        font-size: 16px;
+      }
+      .founderreinventusection img{
+        width: 75%;
+      }
+        h3.olympia {
+            font-size: 20px;
+        }
+        .newtimerheadersection {
+            padding: 3rem 0 10rem;
+        }
+        .clients-logo img {
+            max-width: 150px;
+        }
+    
+        
+        
+        .topbar_text img {
+            max-width: 50px;
+            width: 100%;
+        }
+        
+        .topbar_text:before,
+        .topbar_text:after {
+            top: 13px;
+        }
+        
+        .navbar-light .navbar-toggler {
+            color: rgb(38 38 38);
+            border-color: transparent;
+            padding: 0;
+        }
+        
+        .navbar-toggler:focus {
+            box-shadow: none;
+        }
+        
+        li.nav-item {
+            padding: 7px 0px;
+            border-right: 0;
+            border-bottom: 1px solid #c0c9d1;
+        }
+        
+        li.nav-item:last-child {
+            border-bottom: 0;
+        }
+        
+        .dropdown-item {
+            padding: 5px 0;
+            border: 0;
+        }
+        
+        .dropdown-menu {
+            margin-top: 0;
+            padding: 0;
+            border: 0;
+        }
+        
+        .levels-content:before {
+            top: 52px;
+            width: 1px;
+        }
+        
+        .levels-content:last-child:after {
+            height: 9px;
+            width: 9px;
+        }
+        
+        .levels-content h3 {
+            font-size: 21px;
+            padding-left: 60px;
+            letter-spacing: 0px;
+        }
+        
+        .levels-content li {
+            font-size: 18px;
+            letter-spacing: 0px;
+            line-height: 28px;
+        }
+        
+        .levels-content ol {
+            padding: 20px 0 0px 60px;
+        }
+    }
+    @media (max-width:801px) {
+        .newclienttestimonials .testimonialhead p {
+            font-size: 18px !important;
+        }
+        
+        .newclienttestimonials .testimonialhead h2 {
+            font-size: 22px !important;
+        }
+        
+        button.slider-btn {
+            margin-bottom: 14px !important;
+        }
+        
+        h2.faq-head {
+            font-size: 18px;
+        }
+        /* tablet, landscape iPad, lo-res laptops ands desktops */
+    }
+    @media (max-width: 768px) {
+      span.site-nav__label {
+        font-size: 0.8em;
+    }
+      #AccessibleNav {
+        width: 85%;
+       
+    }
+      .grid.product-single.product-single--medium-media{
+        margin-left: 0px !important;
+    }
+        .product-card .gr-btn2 {
+        
+        text-align: center !important;
+      }
+       .ourstoryherosection h2 {
+        font-size: 30px;
+      }
+      .ourstoryherosection p {
+        font-size: 18px;
+      }
+      h2.step-head:after, h2.step-head:before {
+        width: 40px;
+        top: 9px;
+    }
+    
+      .bg-white clienttestimonials p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+        .newclienttestimonials button {
+            font-size: 16px !important;
+            left: 42%;
+            transform: translate(-35%);
+            bottom: -25px;
+        }
+      .newclienttestimonials button:hover {
+            
+            transform: translate(-35%) scale(1.07);
+            bottom: -25px;
+        }
+        
+        .finalambassadoratheleteform button {
+            font-size: 18px;
+        }
+        .finalambassadoratheleteform h2 {
+            font-size: 24px;
+        }
+    
+    }
+    @media (min-width:768px) and (max-width:1024px) {
+    .fat-burner .grid__item.product-single__media-group {
+        margin-top: -18px;
+    }
+    .product-single__title {
+        text-align: left;
+    }
+    .product-single__meta {
+        padding-top: 105px;
+    }
+    .fat-burner .product-single__meta p.h1 {
+        font-size: 20px;
+    }
+    .details-icon {
+        white-space: inherit;
+    }
+    .price__pricing-group {
+        text-align: left;
+    }
+    button.btn.view-supliment {
+        font-size: 15px;
+    }
+    .product-single__thumbnails-item--medium {
+        flex: 0 0 24.33333%;
+    }
+    .subscribe-section h1 {
+        width: 38%;
+    }
+    .subscribe-section h1:before, .subscribe-section h1:after {
+        width: 85px;
+    
+    }
+    .details-icon ul li {
+        margin-bottom: 10px;
+    }
+    h3.h1.text-white.Organetto_UltraBold, h3.h1.gr-text.Organetto_UltraBold {
+        font-size: 1rem;
+    }
+    .Shed-bundle li, .vice-bundle li, .women-bundle li, .gear-bundle li, .mens-bundle li, .og-bundle li {
+        font-size: 0.7rem;
+    }
+     .large-text.Organetto_UltraBold.text-white.text-center.h2, .large-text.Organetto_UltraBold.gr-text.text-center.h2 {
+        font-size: 0.8rem;
+    }
+     .gym-btn, .gym-btn2 {
+        font-size: 0.9rem;
+        padding: 5px 14px;
+    }
+    .bordered-dot, span.green-dollar {
+        font-size: 1.4em; 
+    }
+    img.miami-ts {
+        height: auto;
+        padding: 2rem;
+        margin: auto;
+        width: auto;
+        max-height: 100%;
+        max-width: 100%;
+    }
+    .gym-content {
+        margin: 15px auto;
+    }
+    .gear-bundle, .mens-bundle, .og-bundle {
+      background-position:top right;
+    }
+    .mens-bundle img.miami-ts {
+        max-height: 80%;
+        transform: translate(0px, -18px);
+    }
+    .mens-bundle img.miami-ts {
+        transform: translate(0,25px);
+        height: 198px;
+        padding: 0 5rem;
+    }
+    .women-bundle img.miami-ts {
+        transform: translate(0,5px);
+        height: 198px;
+        padding: 1rem 2rem;
+    }
+    h2.Organetto_UltraBold.h1.gr-text {
+        font-size: 1.8rem;
+    }
+    .gym-hero h2.Organetto_UltraBold.h1.gr-text {
+        font-size: 1.8rem;
+    }
+    .gym-hero h3.gr-text.h3 {
+        font-size: 1.5rem;
+    }
+    .gym-hero h3.gr-text.h3 {
+        font-size: 1.5rem;
+    }
+    .og-bundle img.miami-ts {
+        padding: 1rem 2rem;
+        max-height: 198px;
+        transform: translate(10px, 15px);
+    }
+    .vice-bundle img.miami-ts {
+        max-height: 192px;
+        padding: 1rem;
+    }
+    .health-suppliments-page .h4.grid-view-item__title.product-card__title {
+      font-size: 0.8rem;
+      min-height: 40px;
+    }
+    .gr-stars img {
+        width: 40%;
+    }
+    .gr-stars span {
+        font-size: 18px;
+    }
+    img.productbadge {
+        margin-bottom: 0 !important;
+        position: absolute;
+        right: 15px;
+        width: 48px;
+    }
+    .collection-display .product-card .product-card__image-wrapper {
+        height: 180px;
+        text-align: center;
+        padding: 10px;
+    }
+    .health-suppliments-page .icon {
+        width: auto;
+        height: 22px;
+    }
+    .health-suppliments-page .gr-btn2.py-2.mt-3.text-white {
+        margin-top: 0.7rem!important;
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 6px;
+    }
+    .health-suppliments-page .gr-btn-pro {
+        font-size: .55rem;
+    }
+    .health-suppliments-page .collection-display .cart-btn {
+        margin: auto;
+        margin-top: 1.2rem!important;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .health-suppliments-page .product-card .gr-btn2 {
+        font-size: 9PX;
+    }
+    .free-text {
+        font-size: 1.1em;
+        display: block;
+    }
+    .health-suppliments-page .product-card p {
+        font-size: 11PX;
+        margin-bottom: 20px;
+        min-height: 82px;
+        padding: 0 8px;
+    }
+    .health-suppliments-page .collection-display .grid__item {
+        margin-bottom: 0;
+    }
+    .health-suppliments-page .price__regular {
+        text-align: left;
+        min-height: 65px;
+    }
+    .sidebar {
+        display: none;
+    }
+    }
+    @media (min-width:1024px) and (max-width:1199px) {
+    .footer span.site-nav__label {
+        font-family: unset!important;
+        color: #fff!important;
+        font-size: 13px;
+    }
+     img.miami-ts {
+        height: auto;
+        padding: 1rem 2rem;
+        margin: auto;
+        width: auto;
+        max-height: 100%;
+        max-width: 100%;
+    } 
+    h3.h1.gr-text.Organetto_UltraBold, h3.h1.text-white.Organetto_UltraBold {
+        font-size: 1.2rem;
+    }
+    .Shed-bundle li, .gear-bundle li, .mens-bundle li, .og-bundle li, .vice-bundle li, .women-bundle li {
+        font-size: 1rem;
+    }
+    .large-text.Organetto_UltraBold.gr-text.text-center.h2, .large-text.Organetto_UltraBold.text-white.text-center.h2 {
+        font-size: 1.1rem;
+    }
+    .gym-btn, .gym-btn2 {
+        font-size: 1.2rem;
+        padding: 5px 24px;
+    }
+    .bordered-dot, span.green-dollar {
+        font-size: 2rem;
+        margin-top: 8px;
+    }
+    .mens-bundle img.miami-ts {
+        transform: translate(0,25px);
+        height: 238px;
+        padding: 0 7rem;
+    }
+    .vice-bundle img.miami-ts {
+        max-height: 240px;
+    }
+    .women-bundle img.miami-ts {
+        transform: translate(0,5px);
+        height: 240px;
+        padding: 0.5rem 2rem;
+    }
+    .og-bundle img.miami-ts {
+        padding: 1rem 2rem;
+        max-height: 240px;
+        transform: translate(0px, 16px);
+    }
+    }
+    @media (max-width:767px) {
+      .product_supersubtitle{
+      text-align: center;
+      }
+     ul.bundle-feature li {
+        text-align: initial;
+               font-size: 14px;
+    }
+    .grid-view-item__image-wrapper {
+        height: 130px;
+    }
+    .product-recommendations__inner .grid-view-item__image {
+        width: auto!important;
+        
+        max-width: 100%!important;
+        max-height: 100% !important;
+      left:0;
+      right:0;
+      top:0;
+      bottom:0;
+    }
+      div#shopify-section-product-recommendations .grid-view-item {
+        margin: 0 auto;
+    }
+    div#shopify-section-product-recommendations .section-header {
+        background: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/hedaing-banner-desktop.jpg?v=1635768361);
+          padding:50px 0 80px 0;
+    }
+    div#shopify-section-product-recommendations .section-header h2 {
+        font-weight: 300;
+        font-family: 'Montserrat';
+        color: #fff;
+        font-size: 30px;
+          margin-bottom: 0;
+    }
+      div#shopify-section-product-recommendations .section-header h2.subhead {
+        font-weight: 700;
+        font-family: 'Organetto UltraBold Ext';
+        color: #fff;
+        font-size: 34px;
+    }
+      .custom-collection{
+        background-size: revert !important;}
+      
+        div#shopify-section-product-recommendations .section-header {
+        background: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/hedaing-banner-desktop.jpg?v=1635768361);
+          padding:30px 0 60px 0;
+    }
+    .product-recommendations__inner .slick-slider {
+        margin-top: -94px;
+    }
+    .slick-dots {
+        position: absolute;
+        bottom: -25px;
+        display: block;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        text-align: center;
+        left: 0;
+        right: 0;
+    }
+    .recommended-products-title.h4 , .recommended_product_subtitle{
+        text-align: center;
+        color: #686868;
+      font-size:16px;
+    }
+    .slick-arrow {
+        top: 25%;
+    }
+    div#shopify-section-product-recommendations .page-width {
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+    div#shopify-section-product-recommendations .section-header h2 {
+        font-weight: 300;
+        font-family: 'Montserrat';
+        color: #fff;
+        font-size: 18px;
+          margin-bottom: 0;
+    }
+      div#shopify-section-product-recommendations .section-header h2.subhead {
+        font-weight: 700;
+        font-family: 'Organetto UltraBold Ext';
+        color: #fff;
+        font-size: 18px;
+    }
+    
+      .grid__item {
+        padding: 0;
+    }
+      .banner-img {
+        display:none;
+    }
+      .middleherosection {
+        height: auto;
+    }
+      .middleherosection p {
+        line-height: 28px;
+    }
+      .ourstoryherosection {
+        
+        height: 800px;}
+      section.therapy-plans{
+      padding-top:0;
+      }
+      .testosterone-section{
+      background: #009DF5;
+      }
+    .therapy-plans {
+        display: none;
+    }
+      .playvideoourstorysection {
+        
+        height: 16em;
+    }
+      .therapy-plans-detail-box , .therapy-plans-box {
+      margin: auto 10px;
+      }
+      .visitinbutton span {
+            background: unset;
+        -webkit-background-clip: unset;
+        -webkit-text-fill-color: unset;
+      color:#c533c5 !important;
+    
+    }
+      .steps img{
+     max-width: 100px;}
+      .py-sm-5{
+      padding-top: 2em;
+        padding-bottom: 2em;
+      }
+      #newlrelese .product-wrapper:hover img ,  #newlrelese .product-wrapper img {
+        width: auto;
+       
+     
+    }
+      .aboutvideo-section video{
+      width: 100%;
+      }
+      .testimonial-reviews{
+        
+        padding-bottom: 0 !important;
+      }
+    /*   .bg-white.clienttestimonials{
+      margin:0} */
+    .site-header__mobile-nav
+       {
+        background: #fff;
+       }
+      .hero-section-iv p{
+        font-size: 1.2em;
+      }
+      .hero-section-iv h2{
+      font-size: 1.6em;
+      }
+      .hero-section-iv button {
+        font-size: 1em;
+        padding: 10px 100px;
+       
+    }
+      
+      .visitinbutton {
+       font-size: 14px !important;
+      }
+        .timecountsection {
+            justify-content: center!important;
+          display:none 
+        }
+        .newtimerheadersection h2 {
+            letter-spacing: 0px;
+            font-size: 22px;
+            text-align: center;
+        }
+        .newtimerheadersection p.exclusive {
+            font-size: 16px;
+            word-spacing: 0px;
+            letter-spacing: 2px;
+            text-align: center;
+        }
+        .newtimerheadersection .timecountsection p {
+            min-height: 65px;
+            min-width: 65px!important;
+            font-size: 20px;
+            padding: 0;
+            margin: 0 3px!important;
+        }
+        .newtimerheadersection .timecountsection p span {
+            font-size: 9px;
+        }
+        h3.olympia {
+            padding: 20px;
+        }
+        h3.olympia {
+            font-size: 16px;
+            text-align: center;
+        }
+        #topclientssection {
+            margin: 0 0 0;
+              padding: 30px 0 0;
+        }
+        .hero_product img {
+            width: 100%;
+        }
+        .newtimerheadersection { 
+            padding: 0 0 30px;
+              background-image: none!important;
+        }
+          .newcounter,img.desktophero{
+          display:none;
+        }
+      img.mobilehero{
+          display:block;
+        }
+    
+        .newcounter_inner {
+            padding: 20px;
+        }
+        .hero_product {
+            position: relative;
+        }
+        #newlrelese img{
+        width: 160px;
+        margin: 0 auto;
+      }
+     
+    /* 	.product-wrapper{
+        max-width: 60%;
+      } */
+        .clients-logo img {
+         max-width: 75px;
+      }
+      #topclientssection h5 {
+       
+        letter-spacing: 0px;
+        font-size: 1em;
+    }
+      .border-r {
+        
+        padding-right: 5px;
+    }
+        .ath-menu h3{
+        font-size: 15px;
+      }
+        #atheleteform .formsection input::placeholder{
+            font-size: 16px;
+        }
+      #atheleteform .formsection input {
+        font-size: 18px;
+        padding: 15px;
+        margin: 10px auto;
+      }
+        h3.product-title{
+       font-size: 20px;
+      margin-top: -10px;
+      }
+    section#topbarsection p {
+        /* padding: 0 0 10px; */
+        font-size: 1em;
+    }
+        .topbar_text p {
+            font-size: 9px;
+            letter-spacing: 1px;
+            padding: 0 5px;
+            line-height: normal;
+        }
+        
+        .topbar_text img {
+            max-width: 35px;
+        }
+        
+        .navbar-brand img {
+            max-width: 170px;
+        }
+        
+        .navbar-light .navbar-nav .nav-link {
+            font-size: 14px;
+        }
+        
+        .ab-calls {
+            text-align: center!important;
+            padding-top: 10px;
+        }
+        .benefits .content{
+        padding: 0 0!important;
+          }
+        .benefits.amb h2{
+              font-size: 1.2rem;
+        }
+        
+        
+        .footer {
+            padding-top: 4em;
+        }
+        
+        section.levels {
+            padding: 60px 0;
+        }
+        
+        .levels-content h3 {
+            font-size: 16px;
+            padding-left: 50px;
+        }
+        
+        .levels-content li {
+            font-size: 16px;
+            line-height: 24px;
+        }
+        
+        .levels-content ol {
+            padding: 20px 0 0px 50px;
+        }
+        
+        .levels-content:before {
+            top: 50px;
+        }
+        .stateofartfacility .stateart {
+            border: none;
+        }
+        
+        .stateofartfacility .stateart P.comingdate,
+        .stateofartfacility h2,
+        .stateofartfacility .stateart p.allnewart {
+            font-size: 1em;
+            letter-spacing: 1px;
+        }
+        .hero-section-iv {
+              height: auto;
+        background-image: none!important;
+        display: block;
+        padding: 0;
+        }
+      button.visitinbutton{
+        top: 60px;}
+           .mainherobar-iv{
+              display: none;
+        }
+      .hero-section-iv .mobile_img{
+      display:block;
+    }
+          button.visitinbutton{
+              padding: 20px 25px 15px;
+        }
+          .border-start {
+            border-left: 0px solid #dee2e6!important;
+        }
+        .border-end {
+            border-right: 0px solid #dee2e6!important;
+        }
+          .hydratedestailsection-iv .px-lg-5 {
+            padding: 0!important;
+        }
+      .mobile-banner {
+        background: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/bg-img-fat-burner-m.jpg?v=1635344445);
+        background-size: cover;
+        color: #fff;
+        margin: -2em -2em -6em -2em;
+        padding: 4em 2em 4.5em 2em;
+        text-align: center;
+      
+    }
+     h3.product-title {
+        margin-top: -2em!important;
+        padding-bottom: 10px;
+    }
+      .mobile-banner h2{
+        font-family: 'Organetto UltraBold Ext';
+        font-size:1.8em;
+      }
+    #ProductSection-product-template {
+        margin-top: 3.2em;
+    }
+    .product-single__meta {
+        padding-top: 0;
+    /*   text-align:center; */
+    }
+    .fat-burner .product-single__meta p.h1 {
+        font-size: 22px;
+    }
+    .details-icon ul {
+        padding-bottom: 10px;
+        margin-bottom: 6px;
+        margin-top: 10px;
+    }
+    button.btn.view-supliment {
+      margin:10px auto;
+    }
+    .details-icon ul li img {
+        margin-right: 10px;
+        width: 20px;
+        height: 20px;
+    }
+    .details-icon ul li {
+        padding-right: 6px;
+    }
+    .details-icon ul li span {
+        font-size: 8px;
+    }
+    .details-icon ul:before {
+      background:transparent;
+    }
+      .mobile-banner p{
+        color: #fff
+      }
+    .fat-burner .product-form__item .product-form__cart-submit {
+        margin-top: 20px;
+    }
+    .fat-burner .product-single__title {
+        margin-bottom: 1.6rem;
+        /* font-family: 'Organetto UltraBold Ext'; */
+        color: #353435;
+        font-weight: 700;
+        font-size: 1.3em;
+        font-family: 'Montserrat' !important;
+          color:#353435;
+          position: relative;
+    }
+      .fat-burner .product-single__title:before {
+        content: "";
+        position: absolute;
+        background: #ccc;
+        left: 0;
+        right: 0;
+        bottom: -15px;
+        margin: auto;
+        width: 100px;
+        height: 3px;    
+      }  
+      
+    .fat-burner span.price-item.price-item--regular {
+        font-size: 1.6em;
+      
+          font-family: 'Montserrat';
+        color:#353435;
+    }
+    .fat-burner .product-form__item .product-form__cart-submit {
+        background: #1f9fe3;
+        color: #fff;
+        font-family: 'Montserrat';
+        font-weight: 600;
+        font-size: 1.2em;
+        text-transform: capitalize;
+    }
+    .fat-burner .product-form__item .product-form__cart-submit:after {
+         z-index: revert;
+    }
+     .fat-burner h4 {
+        margin-left: 25px;
+        margin-top: 25px;
+        margin-right: 25px;
+       font-family: 'Montserrat';
+        font-weight: 700;
+    }
+    .fat-burner .product-single__description p {
+        font-family: 'Montserrat';
+        font-weight: 500;
+    }
+     .fat-burner .product-single__description {
+        margin-top: 22px;
+        padding: 0 25px;
+    }
+     .cust-img ul { 
+      display: flex;
+      flex-flow: row wrap;
+      margin-left: -8px; /* Adjustment for the gutter */
+      width: 100%;
+    }
+    
+    .cust-img ul li {
+      flex: auto;
+      height: 250px;
+      min-width: 150px;
+      margin: 0 8px 8px 0; /* Some gutter */
+    }
+    .testmonial-section .title{
+      font-family: 'North Coast', sans-serif;
+      color:#fff;
+      transform: rotate(-11deg);
+    }
+    .testmonial-section p {
+     font-size:70px;
+       text-shadow:
+           3px 3px 0 #0fb9ea,
+         -1px -1px 0 #0fb9ea,  
+          1px -1px 0 #0fb9ea,
+          -1px 1px 0 #0fb9ea,
+           1px 1px 0 #0fb9ea;
+      display:block;
+      clear:both;
+      text-align:center;
+      color:#fff;
+    }
+    .testmonial-section span {
+      text-shadow:
+           3px 3px 0 #e040a0,
+         -1px -1px 0 #e040a0,  
+          1px -1px 0 #e040a0,
+          -1px 1px 0 #e040a0,
+           1px 1px 0 #e040a0;
+      font-size:40px;
+    display:block;
+      clear:both;
+      text-align:center;
+      color:#fff;
+    }
+    .testmonial-section {
+        padding: 50px 0;
+    }
+      .testimonial-bg {
+        background:url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/testimonial-bg.png?v=1635429911);
+        padding: 50px 0 150px 0;
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+    .testimonial-slide .slick-prev:before {
+        content: '';
+        margin-left: -1rem;
+        position: absolute;
+        top: 0;
+        width: 50px;
+        height: 50px;
+        display: block;
+        background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/circle-arrow-prev.png?v=1635431894);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    .testimonial-slide .slick-next:before {
+        content: '';
+        margin-left: -2rem;
+        position: absolute;
+        top: 0;
+        width: 50px;
+        height: 50px;
+        display: block;
+        background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/circle-arrow-next.png?v=1635431894);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+     .white-bg{
+       background:rgba(255,255,255,0.7);
+       padding:20px;
+       margin: 25px;
+        border-radius: 10px;
+        box-shadow: 1px 1px 10px 0px rgb(0 0 0 / 20%);
+       
+     }
+    .testimonial-title {
+      font-family:'Montserrat';
+      color:#2d2e2e;
+      font-size:18px;
+      font-weight:600;
+    }
+    .white-bg > p {
+      font-family:'Montserrat';
+      color:#292929;
+      font-size:14px;
+      font-weight:500;
+      font-style:italic;
+      text-shadow: none;
+      line-height: normal;
+      margin: 20px  10px;
+    }
+    .verified-purchase {
+        max-width: 75%;
+        margin: 20px auto;
+    }
+    span.rating {
+        max-width: 40%;
+        float: right;
+        margin-top: 12px;
+    }
+    .testimonial-title {
+        font-family: Montserrat;
+        color: #2d2e2e;
+        font-size: 1.8em;
+        font-weight: 600;
+    }
+    .subscribe-section {
+        padding: 20px;
+        text-align: center;
+      background:#fff;
+    }
+    .subscribe-section h1 {
+        color: #3f3f3f;
+        font-family: 'Organetto UltraBold Ext';
+          border-bottom: 2px solid #229ee2;
+        padding-bottom: 10px;
+        position: relative;
+        width:100%;
+      background:#fff;
+        line-height:28px;
+          font-size: 20px;
+    }
+    .subscribe-section h1:after {
+        content: "";
+        background: #fff;
+        height: 5px;
+        bottom: -3px;
+        width: 120px;
+        position: absolute;
+        right: 0;
+    }
+    
+    .subscribe-section h1:before {
+        content: "";
+        background: #fff;
+        height: 5px;
+        width: 120px;
+        left: 0;
+        bottom: -3px;
+        position: absolute;
+    }
+    .subscribe-section h1 span {
+        display: block;
+        color: #229ee2;
+        background: transparent;
+        -webkit-text-fill-color: #229ee2;
+          font-size: 30px;
+    }
+    .subscribe-section p {
+        color: #3f3f3f;
+        font-family: 'Montserrat';
+        margin: 15px 35px;
+        font-size: 16px;
+        line-height: normal;
+    }
+    .signup input::-webkit-input-placeholder {
+        font-size: 13px;
+        line-height: 3;
+    }
+    .signup input {
+        background: #e9e9e9;
+        border: none;
+        padding: 10px 10px;
+    }
+    button.signupbtn {
+        background: #229ee2;
+        border: none;
+        color: #fff;
+        text-transform: uppercase;
+        font-family: 'Montserrat';
+        font-weight: 700;
+        padding: 10px 15px;
+    }
+    .cust-img-container {
+      height: 400px;
+      width: 100%;
+      display: flex;
+      padding: 10px;
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+    }
+    .item-box {
+      height: 180px;
+      width:50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border: 0px;
+      border-radius: 0px;
+      overflow:hidden;
+    }
+    .item-box:first-child img {
+        height: 100%;
+    }
+    
+    .item-box:first-child {
+        order: 1;
+        height: 365px;
+          padding-right:0px;
+    }
+      .item-box:nth-child(2) {
+        order: 2;
+        margin-bottom:5px;
+        
+        display:flow-root;
+    
+    }
+      .item-box:nth-child(3) {
+        order: 3;
+        
+        display:flow-root;
+    
+    }
+    input.gr-btn-pro {
+        margin-top: 15px;
+    }
+    .price dd {
+        margin: 0;
+    }
+    .cust-img.visible-xs > img {
+        padding: 30px 40px;
+    }
+    }
+    @media (max-width:600px) {
+        .newclienttestimonials button {
+            width: 80%
+        }
+        
+        button.hero-btn {
+            bottom: -26px;
+            width: 80%;
+            font-size: 16px;
+        }
+        .levels-content h3:before{
+          width: 40px;
+        }
+    }
+    @media only screen and (max-width: 576px) {
+       .ourstoryherosection h2 {
+        font-size: 22px;
+      }
+      .ourstoryherosection p {
+        font-size: 14px;
+      }
+      .founderreinventusection {
+        margin-top: 00px;
+      }
+      .founderreinventusection button {
+    font-size: 12px;
+     }
+      .c-icons h3{
+        text-align: left !important;
+      }
+      .c-icons a {
+        font-size: 16px;
+    }
+        .hero-section h2 {
+            font-size: 30px;
+        }
+        
+        .hero-section p {
+            font-size: 16px;
+        }
+        
+        .payment-cc-icon {
+            width: 50px;
+            height: auto;
+        }
+        .newclienttestimonials button {
+            font-size: 12px !important;
+            left: 25%;
+            transform: translate(-20%) ;
+        }
+      .newclienttestimonials button:hover {
+            
+            transform: translate(-20%) scale(1.07) !important;
+            
+        }
+        
+        #ContactForm {
+            margin: 2px;
+        }
+        .newjoinreinventufamily .joinfamilyreinventu h2 {
+            font-size: 23px;
+        }
+    }
+    @media (max-width:480px) {
+        .newclienttestimonials button {
+            width: 80%
+        }
+        
+        .steps * {
+            margin: auto;
+        }
+        
+        button.hero-btn {
+            bottom: -26px;
+            width: 80%;
+            font-size: 16px;
+        }
+        /* smartphones, Android phones, landscape iPhone */
+    }
+    @media (max-width:320px) {
+        .newclienttestimonials button {
+            width: 80%
+        }
+        
+        button.hero-btn {
+            bottom: -26px;
+            width: 80%;
+            font-size: 16px;
+        }
+      .hero-section-iv button {
+        padding: 10px 70px;
+    }
+    
+      section.benefits button {
+      font-size: 16px;
+    }
+    .benefits h1, .benefits h2 {
+        font-size: 20px;
+    }
+    #customersreviewsection-iv h1 {
+       font-size: 20px;
+    }
+        /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+    }
+    
+    @media screen and (max-width: 375px){
+    #yourturn-section button, .form-btn {
+            font-size: 14px;
+    }
+        .ourstoryherosection h2 {
+        font-size: 18px;
+      }
+      .ourstoryherosection p {
+        font-size: 12px;
+      }
+    }
+    
+    
+    
+    
+    
+    
+    @media only screen and (max-width: 768px) {
+      .test-overhealth-section {
+        margin-top: 80%;
+      }
+    }
+    @media only screen and (max-width: 576px) {
+      .test-overhealth-section {
+        margin-top: 100%;
+      }
+    
+      .test-overhealth-section .whychoose-section h2 {
+        font-size: 1.5rem;
+      }
+      .test-overhealth-section h3 {
+        font-size: 1.2rem;
+      }
+      .test-overhealth-section p {
+        font-size: 1rem;
+      }
+     
+    }
+    
+    
+    
+    
+    @media only screen and (max-width: 767px) {
+    .btn--link, .btn--link:focus, .btn--link:not([disabled]):hover {
+      outline:none;
+      border:none;
+    }
+      div#ProductSection-collection-template {
+        padding: 30px;
+    }
+      img.productbadge {
+       
+        right: 25px;
+        
+    }
+      .multiselect__content-wrapper {
+          left: -50px;
+      }  
+      .client-review-wrapper {
+        padding-left: revert;
+    }
+      .whatbought {
+        
+        min-height: revert;
+    }
+      .quantity_new {
+        justify-content: center;
+    }
+      #testimonialsection p {
+           max-height:145px;
+        min-height: 145px;
+    }
+    .ComboSlide_picky-combo-slide-container_ZrAxF .ComboSlide_picky-combo-slide-content_1e7bJ .ComboSlide_atc-button-wrap_2dlwy {
+        width: 100% !important;
+        display: block !important;
+        float: none;
+        position: inherit;
+          right:0;
+    }
+    .ComboSlide_picky-combo-slide-container_ZrAxF .ComboSlide_picky-combo-slide-content_1e7bJ .ComboSlide_atc-button-wrap_2dlwy:after {
+        right: 18px;
+        top: 22px;
+    }
+    .ComboSlide_picky-combo-slide-container_ZrAxF .ComboSlide_picky-combo-slide-content_1e7bJ .ComboSlide_quantity-wrap_3Tgdz {
+        width: 257px!important;
+        max-width: 100%!important;
+        margin: 20px auto 0 auto !important;
+    }
+     .AddSelectedToCart_picky-add-selected-to-cart-button_1WuCf span {
+        font-weight: 700;
+    }
+    .ComboProductCard_card-info-wrap_bNw_Y {
+        padding: 10px;
+        width: 100% !important;
+    }
+    .ComboProductCard_picky-combo-product-card_2fhN9 .ComboProductCard_card-info-wrap_bNw_Y .ComboProductCard_title_2yy75, .ProductOption_picky-product-option_2PEvC .ProductOption_title_oEe3n {
+        font-size: 14px!important;
+    }
+      .ComboProductCard_picky-combo-product-card_2fhN9 .ComboProductCard_card-info-wrap_bNw_Y {
+        width: 100% !important;
+      }
+    .ProductOption_picky-product-option_2PEvC .ProductOption_option-label_32G0Y {
+        font-size: 14px!important;
+    }
+      select#SingleOptionSelector-0 {
+        margin: auto;
+        display: block;
+    }
+    button.AddSelectedToCart_picky-add-selected-to-cart-button_1WuCf {
+        width: 100% !important;
+        height: 80px!important;
+    }
+    .ProductOption_title_oEe3n {
+        margin-top: 2px!important;
+        margin-left: 7px !important;
+    }
+    .picky-widget .multiselect__single {
+      line-height:18px !important;
+    }
+    .QuantityInput_picky-product-quantity-input_3ZQjb {
+        height: 100px !important;
+    }
+    .bundle-item {
+        margin-bottom: 30px;
+    }
+    
+    
+    .bundle__info h3 {
+        font-family: 'Montserrat';
+        font-weight: 700;
+        font-size: 24px;
+          background: -webkit-linear-gradient(
+    45deg ,#c533c5,#32a3cf);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      margin-bottom:0;
+      text-align:center;
+    }
+    .bundle__info p {
+        font-family: 'Montserrat';
+        font-weight: 400;
+        font-size: 18px;
+          background: -webkit-linear-gradient(
+    45deg ,#c533c5,#32a3cf);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      margin-bottom:30px;
+        text-align:center;
+    }
+    
+    
+    .bundle-item {
+        margin-bottom: 10px;
+    }
+    
+      .bundle__info {
+        transform: translate(0px, 0%);
+    }
+    
+      #newlrelese h1, .testimonial-head {
+      font-size: 1.25em;
+      }
+      #newlrelese h1 {
+          margin-top: 2em;
+      }
+      #testimonialsection .slick-dots li button:before{
+      color: #000;}
+      #testimonialsection .testimonial-img{
+      margin: auto;
+      }
+      .testimonial-stars{
+        display:flex;
+          justify-content: center;
+      }
+      .clientinfo{
+      
+      text-align: center;}
+      .vice-bundle , .women-bundle , .Shed-bundle {
+         background: linear-gradient(
+    45deg,#c661b3,#26a7eb);
+    }
+    .gym-hero .Organetto_UltraBold {
+        margin-top: 35px;
+    /*    -webkit-text-fill-color: #000; */
+        white-space: nowrap;
+    }
+    .gym-hero  h3.gr-text.h3 {
+        font-size: 12px !important;
+    /*     -webkit-text-fill-color: #000; */
+    }
+     .gym-hero  .arrows img {
+        width: 22px !important;
+       display: block;
+        text-align: center;
+        margin: 0 auto;
+           margin-top: 0 !important;
+    }
+     .gym-hero  .arrows.mt-4 {
+        margin-top: 0 !important;
+        margin-bottom: 25px;
+    }
+    .arrows.mt-4 br {
+      display: none;
+    }
+     .Shed-bundle, .vice-bundle, .women-bundle, .gear-bundle, .mens-bundle, .og-bundle {
+        background-repeat: no-repeat;
+       
+        margin: 20px !important;
+        border-radius: 20px;
+        padding: 20px;
+        position:relative;
+       display:inline-block;
+       margin: 40px 20px !important;
+       background-size: cover;
+    }
+    .gym-content {
+        margin: auto;
+        padding-bottom: 20px;
+    }
+    .gym-content h3.h1.text-white.Organetto_UltraBold, .gym-content h3.h1.gr-text.Organetto_UltraBold {
+        font-size: 18px;
+        text-align: center;
+     
+    }
+     img.miami-ts {
+        max-width: 100%;
+        height: auto;
+    }
+    .mobile-display {
+      display:block !important;
+    }
+    .mobile-display-none {
+      display:none;
+    }
+    .full-width-mobile {
+      width:100% !important;
+    }
+    
+    .gr-text {
+        padding: 0;
+    }
+    ul.text-white {
+        padding: 0 0 20px 20px;
+        border-bottom: 1px solid #e18f8f;
+        position: relative;
+    }
+      
+      .mens-bundle ul, .og-bundle ul, .mens-bundle ul, .gear-bundle ul{
+        padding: 0 0 20px 20px;
+      }
+     ul.text-white:before {
+        border-bottom: 1px solid #c52828;
+        width: 50px;
+        content: '';
+        position: absolute;
+        left: 0;
+        height: 1px;
+        bottom: -1px;
+    }
+       ul.text-white:after {
+        border-bottom: 1px solid #c52828;
+        width: 50px;
+        content: '';
+        position: absolute;
+        right: 0;
+        height: 1px;
+        bottom: -1px;
+    }
+    
+     .Shed-bundle button.Organetto_UltraBold.gym-btn, .vice-bundle button.Organetto_UltraBold.gym-btn, .women-bundle button.Organetto_UltraBold.gym-btn, .gear-bundle button.Organetto_UltraBold.gym-btn
+      , .mens-bundle button.Organetto_UltraBold.gym-btn, .og-bundle button.Organetto_UltraBold.gym-btn,  .Shed-bundle button.Organetto_UltraBold.gym-btn2 ,
+      .vice-bundle button.Organetto_UltraBold.gym-btn2 , .women-bundle button.Organetto_UltraBold.gym-btn2 , .gear-bundle button.Organetto_UltraBold.gym-btn2 , .mens-bundle button.Organetto_UltraBold.gym-btn2 , .og-bundle
+      button.Organetto_UltraBold.gym-btn2 {
+        position: absolute;
+        bottom: -32px;
+        width: 90%;
+        left: 5%;
+        padding: 12px;
+         box-shadow: 1px 1px 4px 0px rgb(0 0 0 / 20%);
+          background-image: none;
+        background-color: #fff;
+    }
+    .bordered-dot {
+        font-size: 1.2em;
+        margin: 0 auto;
+    }
+    span.green-dollar {
+        font-size: 22px;
+    }
+    .large-text.Organetto_UltraBold.text-white.text-center.h2 {
+        font-family: "Organetto UltraBold Ext";
+        font-size: 22px;
+    }
+     .large-text.Organetto_UltraBold.gr-text.text-center.h2 {
+        
+        font-size: 22px;
+    }
+     .gym-btn2 span.text-white {
+        background: -webkit-linear-gradient( 
+    45deg ,#c533c5,#32a3cf);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    
+    .dot2 .gr-text {
+    
+        -webkit-background-clip: text;
+    
+    }.arrows img {
+        width: 22px!important;
+        display: block;
+          margin: auto;
+    }
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
