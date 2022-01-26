@@ -1,0 +1,3026 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Oswald:wght@400;500&display=swap');
+@import url('http://fonts.cdnfonts.com/css/north-coast?styles=81386,81385');
+
+@font-face {
+            font-family: 'Organetto UltraBold Ext';
+            src: url("https://cdn.shopify.com/s/files/1/0560/3321/4631/t/4/assets/organetto-ultrabold-semiext.ttf");
+        }
+/* @font-face {
+font-family: ;
+  src: url('https://cdn.shopify.com/s/files/1/0560/3321/4631/t/4/assets/organetto-ultrabold-semiext.ttf' ) format('truetype'),
+
+font-weight: bold;
+font-style: normal;
+
+} */
+
+
+/* Reset CSS */
+.Organetto_UltraBold{
+	font-family: 'Organetto UltraBold Ext';
+}
+body {
+  font-family: Montserrat;
+  color: #282526;
+}
+span.greee-apples-text {
+    color: #c3d76b;
+}
+.blue_text {
+  color: #00aeef;
+}
+.pink_text {
+  color: #dd4398;
+}
+.announcement-img p{
+	font-weight: 500;
+    color: #bfbfbf;
+}
+.sp-blu{
+  color: #00aeef;
+}
+.sp-purp {
+  color: #dd4398;
+}
+
+.gr-btn {
+    background-image: -moz-linear-gradient(0deg,#dd4398 0,#00aeef 100%);
+    background-image: -webkit-linear-gradient(
+0deg
+,#dd4398 0,#00aeef 100%);
+    background-image: -ms-linear-gradient(0deg,#dd4398 0,#00aeef 100%);
+    border: 0;
+    font-size: 1.4em;
+    font-weight: 700;
+    border-radius: 30px;
+    padding: 6px 50px;
+    font-family: 'Montserrat';
+    letter-spacing: 0;
+}
+p {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+/* Topbar Section */
+section#topbarsection {
+    background-color: #262626;
+
+  z-index: 10;
+}
+.topbar_text{    
+    position: relative;
+    z-index: 0;
+}
+.topbar_text:before,.topbar_text:after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    background-color: #fff;
+    top: 19px;
+    z-index: -1;
+}
+.topbar_text:before{
+    left:0;
+}
+.topbar_text:after{
+    right:0;
+}
+.topbar_text img {
+    max-width: 50px;
+}
+.topbar_text p {
+       font-size: .7rem;
+    letter-spacing: 4px;
+    margin-bottom: 0;
+    font-style: italic;
+    display: inline-block;
+    padding: 0 20px;
+    background-color: #262626;
+      color: white;
+      display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.ab-calls a:hover{
+
+color: #dd4398;}
+.ab-calls{
+  line-height: normal;
+}
+
+/*Header Section*/
+.navbar {
+  	font-size:0.875rem;
+    padding: 0;
+}
+header#headersection{
+
+    width: 100%;
+    padding: 40px 0 0;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #262626;
+    font-family: Oswald;
+    text-transform: uppercase;
+    font-weight: 400;
+    padding: 0;
+}
+#SiteNav li{
+    padding: 0 15px;
+    border-right: 1px solid #c0c9d1;
+}
+#SiteNav li:last-child {
+    padding-right: 0;
+    border-right: 0;
+}
+.navbar {
+    padding: 0px;
+    z-index: 11;
+}
+
+.dropdown-menu{
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: 0;
+    font-family: Oswald;
+
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(0 174 237);
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(0 174 237);
+}
+.dropdown-item.active, .dropdown-item:active{
+    background-color: #00adef;
+}
+/*Banner Section*/
+.banner_img img {
+    width: 100%;
+}
+/* About Section */
+section#aboutsection {
+  background-color: #fff;
+  padding: 80px 0;
+  background: #fff url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/about_bg.png?v=1627398310) center bottom no-repeat;
+  background-size: 100%;
+}
+.sec_about {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.sec_about p {
+  max-width: 770px;
+  margin: 20px auto 30px;
+}
+
+
+ /* topclients section starts here  */
+#topclientssection {
+        background: linear-gradient(45deg,#C661B3,#26A7EB);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    margin: 0px 0 0;
+    padding: 30px 0 0;
+    z-index: 20;
+    position: relative;
+}
+#topclientssection h5 {
+    margin: 0!important;
+    letter-spacing: 2px;
+}
+.wrapper2 {
+    margin: auto 50px !important;
+}
+.announcement-img{
+background: url("https://cdn.shopify.com/s/files/1/0560/3321/4631/files/Free_Shipping_Offer.jpg?v=1634219565") ;
+      background-size: cover;
+}
+/* newlrelease section start here */
+#newlrelese img.product-img {
+/*     height: 320px; */
+    width: auto;
+}
+ img.product-img {
+    margin: auto;
+}
+#newlrelese{
+  
+  
+  position:relative;
+}
+#newlrelese:before{
+  background-image:url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/shape_2.png?v=1627424769);
+  background-repeat:no-repeat;
+  width:100%;
+  height: 72px;
+  content:'';
+  position:absolute;
+  top:0;
+  left: 0;
+}
+.client1{
+    margin: 1em auto;
+}
+.clients-logo img {
+    max-width: 160px;
+    width: 100%;
+}
+
+#atheleteform .formsection input:placeholder{
+
+font-size: 0.825rem;
+}
+.product-wrapper {
+
+      margin: auto 10px;
+  background-size: cover;
+   box-shadow: 0px 0px 7px 0px;
+  border-radius: 6px;
+    color: #9e9e9e;
+}
+#shopify-section-collection-template .product-wrapper{
+
+  margin: auto 10px;
+}
+
+
+
+
+#newlrelese .slick-list{
+
+overflow: initial;
+}
+#newlrelese img {
+
+      margin: auto;
+    transform: translateY(-55px);
+ transition: all .2s ease-in-out;
+}
+#newlrelese .product-wrapper:hover img {
+
+    transform: translateY(-45px);
+transition: all .2s ease-in-out;
+}
+
+
+
+#meetatheletesection{
+  background-image: url('https://cdn.shopify.com/s/files/1/0560/3321/4631/files/athletes_bg.jpg?v=1627458838');
+  background-size: 100% 100%;
+}
+.ath-person {
+  position: relative;
+}
+.ath-menu h3{
+margin:0;
+  
+}
+.ath-menu {
+  background-image: linear-gradient(to right, rgb(221, 67, 152,0.75), rgb(0, 174, 239,0.75) );
+  position: absolute;
+
+  color: aliceblue;
+  width: 100%;
+  bottom: 0rem;
+  overflow: hidden;
+}
+.ath-menu button {
+  position: absolute;
+  top: 5rem;
+  left: 9rem;
+  border-radius: 0%;
+  color: aliceblue;
+  font-size: 1.2rem;
+  padding: 0.5rem 2rem;
+}
+.slick-next{
+  right: 0!important;
+}
+.ath-person {
+ 
+  
+  margin-bottom: 30px
+}
+.ath-person img {
+  height: auto;
+  width: 100%;
+  object-fit: cover;
+}
+
+
+
+/* ......Niket stylesheet css .....  */
+
+/* ....atheleteform section starts */
+
+#atheleteform {
+  height: auto;
+  width: 100vw;
+  background-image: url("https://cdn.shopify.com/s/files/1/0560/3321/4631/files/form_bg.jpg?v=1627300685") !important;
+  background-size: 100% 100%;
+ }
+#atheleteform .formsection input{
+font-size: 18px;
+  background: 
+  linear-gradient(#fff,#fff) padding-box, /*this is your grey background*/
+  linear-gradient(to right, #bf52a4, #1f9fe3) border-box;
+
+padding: 3px;
+ border: 3px solid transparent;
+ border-radius:25rem; 
+ display:inline-block;
+}   
+#atheleteform .formsection input::placeholder{
+
+  color: #bf52a4 !important;
+  font-size: 18px;
+}
+#atheleteform .formsection button{
+  border: none;
+  background: linear-gradient(
+    to right,
+    rgba(225, 32, 231, 0.7),
+    rgba(9, 157, 243, 0.7)
+  );
+  color: #ffffff;
+  border-radius: 25rem;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+#atheleteform input {
+  width: 100%;
+}
+#atheleteform h1 span{
+  color: #1f9fe3;
+}
+
+
+#atheleteform p span{
+  color: #bf52a4;
+}
+/* atheleteform section ends */
+
+/* customer review section starts  */
+#ourcustomerreview {
+  height: auto;
+  width: 100vw;
+  background-image: url("https://cdn.shopify.com/s/files/1/0560/3321/4631/files/testimonial_bg.jpg?v=1627300651") !important;
+  background-size: cover;
+  font-family: "Organetto UltraBold Ext";
+}
+#ourcustomerreview h1 {
+
+  color: #ffffff;
+      font-family: 'Organetto UltraBold Ext';
+}
+#ourcustomerreview h1 span {
+  color: #1f9fe3;
+}
+
+
+#ourcustomerreview p {
+    font-size: 22px;
+    color: #fff;
+    font-family: 'Montserrat';
+    margin-bottom: 2em;
+}
+#ourcustomerreview p span {
+  color: #bf52a4;
+}
+/* customer review section ends  */
+/* ........meet the athlete section starts here....... */
+#athelte-meet {
+    height: auto;
+    background: #000;
+  background-image: url("https://cdn.shopify.com/s/files/1/0560/3321/4631/files/top_bg_for_athletes_section.png?v=1627558262");
+    background-size: 100% 100%;
+    width: 100%;
+ 
+}
+.aboutheading {
+    
+background-image: -webkit-linear-gradient(
+0deg
+ ,#dd4398 0,#00aeef 100%);
+padding: 2px;
+  border-radius: 70px;
+  border: pink !important;
+} 
+
+
+#meetathlete h4 {
+    font-family: "Montserrat";
+  font-weight: 200;
+}
+.aboutheading h2 span {
+  color: #1f9fe3;
+   background: #000; 
+    
+}
+.allathelte img {
+  height: 400px;
+  width: 100%;
+}
+
+.allathelte .athname {
+  height: auto;
+  background: linear-gradient(
+    to right,
+    rgba(138, 37, 233, 0.7),
+    rgba(14, 149, 228, 0.7)
+  );
+  width: 100%;
+}
+
+
+
+.ath2-person {
+  position: relative;
+  overflow-x: hidden;
+}
+.ath-menu2 {
+  background-image: linear-gradient(to right, rgb(221, 67, 152,0.75), rgb(0, 174, 239,0.75) );
+  position: absolute;
+  top:unset;
+  color: aliceblue;
+  width: 100%;
+  overflow-x: hidden;
+  bottom: 0rem;
+  overflow: hidden;
+
+}
+.ath-menu2 h2 {
+    font-family: Montserrat;
+}
+#meetathlete .allathelte h2 > a > img{
+
+width: auto;
+  height: auto;
+
+}
+#meetathlete .ath-person img{
+height:auto;
+width:auto;
+}
+.ath-inner {
+    position: relative;
+}
+/* ........meet the athlete section ends here....... */
+
+/* ....... yourturn section starts here....... */
+#yourturn-section ::placeholder{
+  color: rgb(191, 31, 231);
+  font-size: 18px;
+}
+#yourturn-section input::placeholder {
+  color: rgb(191, 31, 231);
+  font-size: 18px;
+}
+#yourturn-section input,
+#yourturn-section button{
+
+  background: 
+  linear-gradient(#fff,#fff) padding-box, /*this is your grey 
+  background*/
+  linear-gradient(to right, #bf52a4, #1f9fe3) border-box;
+  padding: 5px;
+ border: 5px solid transparent;
+ border-radius:50px;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+ 
+} 
+#yourturn-section button, .form-btn {
+    font-size: 22px;
+    font-weight: bold;
+  color: #ffffff;
+
+  border-radius: 50px;
+  border: none;
+  background-image: -webkit-linear-gradient(
+0deg
+, rgb(221, 67, 152) 0%, rgb(0, 174, 239) 100% );
+}
+#yourturn-section h2 span {
+  color: #1f9fe3;
+}
+/* clienttestimonials section starts here  */
+#testimonialsection{
+ 
+  height: auto;
+     padding-bottom: 2em;
+}
+.testimonial-stars{
+display:flex;
+}
+#testimonialsection .clientinfo p{
+  color: #00aeef;
+  font-size: 12px;
+}
+#testimonialsection p{
+    font-size: 14px;
+    min-height: 140px;
+    max-height: 140px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+#testimonialsection .clientinfo h5{
+font-size: 20px !important;
+}
+.client-review-wrapper{
+    padding-left: 1.5rem;
+}
+
+.clienttestimonials{
+
+  border-radius: 30px;
+  
+}
+/* ....... yourturn section ends here....... */
+
+/* ....customersreviewsection section starts here.... */
+
+#customersreviewsection {
+  background-color: #343434;
+  height: auto;
+  margin-top: 6em;
+}
+#customersreviewsection h1 {
+  font-family: "Organetto UltraBold Ext";
+  color: #ffffff;
+}
+#customersreviewsection h1 span {
+  color: #00aeef;
+}
+#customersreviewsection .clientinfo h5 {
+  font-size: 20px !important;
+}
+#customersreviewsection > img {
+  border: 1px solid rgb(175, 175, 175);
+  border-radius: 100px;
+  box-shadow: 4px 0px 10px;
+}
+#customersreviewsection .customers-review {
+  border-radius: 30px;
+}
+
+/*.... customersreviewsection section ends here....*/
+
+/* theme overrides  */
+
+.site-nav {
+  
+    text-align: right;
+
+}
+
+
+.site-header__logo-image{
+margin-left: auto !important;
+}
+.bottle   {
+  display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    font-family: 'Oswald';
+  color: black;
+}
+
+.contact-heading{
+
+      width: fit-content;
+    padding: 0.5em;
+    margin: auto;
+
+
+}
+
+#ContactForm input, #ContactForm textarea{
+    background: linear-gradient(#fff,#fff) padding-box,linear-gradient(to right,#bf52a4,#1f9fe3) border-box;
+    padding: 15px;
+    border: 2px solid transparent;
+    border-radius: 22px;
+      margin: 15px auto;
+}
+
+
+
+
+
+
+header#headersection {
+  
+    width: 100%;
+    padding: 0;
+    z-index: 11;
+}
+
+span.site-nav__label {
+    font-family: 'Oswald';
+    color: black;
+    border: none;
+}
+
+.mobile-nav__label {
+    border-bottom: 1px solid transparent;
+    border: none;
+
+    color: black;
+    font-family: 'Oswald';
+}
+
+
+.form-btn {
+    display: block !important;
+    margin: 0.5em auto;
+  	padding: 0.8em 2em;
+  font-family: Montserrat; 
+  	
+} 
+#ContactForm *::placeholder{
+font-size: 1.5em;
+  color: #bf52a4;
+
+}
+
+#ContactForm{
+
+    margin: auto 60px;
+
+}
+.ath-menu h3 {
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+}
+header.collection-header {
+    padding-bottom: 75px;
+}
+header.collection-header .slick-slider {
+  margin-bottom:-80px;
+}
+.grid-view-item__image-wrapper {
+    height: 245px;
+}
+
+#grid {
+    margin: 0 auto;
+
+    max-width: 1200px;
+
+}
+#looxReviewsFrame .grid-wrap {
+    min-height: 389px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+@media only screen and (min-width: 750px) {
+
+  #AccessibleNav {
+
+        width: 75%;
+
+    justify-content: center;
+}
+
+
+}
+
+.visible-xs {
+    display: none;
+}
+
+.fat-burner .product-single__meta p.h1 {
+    font-size: 24px;
+    color: #353435;
+    font-family: 'Montserrat';
+    font-weight: 300;
+
+    margin-bottom: 0;
+}
+button.btn.view-supliment {
+    background: #eaeaea;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    text-transform: capitalize;
+    padding: 5px 5px;
+    color: #282828;
+    margin-top: 10px;
+}
+button.btn.view-supliment a{
+color: #000;
+}
+button.btn.view-supliment img {
+    margin-right: 12px;
+}
+.product-form__item {
+    padding: 0;
+}
+.details-icon {
+    white-space: nowrap;
+}
+.details-icon ul {
+    padding-left: 0;
+	position: relative;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.details-icon ul:before {
+    background: #ccc;
+    height: 3px;
+    width: 186px;
+    position: absolute;
+    left: 0;
+    content: '';
+    bottom: 0;
+    border-radius: 4px;
+}
+.details-icon ul li {
+    display: inline-block;
+    padding-right: 15px;
+}
+.details-icon ul li img {
+    margin-right: 10px;
+}
+.details-icon ul li span {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 12px;
+    color: #000;
+}
+.mobile-display {
+    display: none !important;
+}
+.fat-burner .grid__item.product-single__media-group {
+    margin-top: 0px;
+}
+.miami-vice-bundle .grid__item.product-single__media-group {
+    margin-top: 33px;
+}
+.load-up-on-gear-bundle .grid__item.product-single__media-group {
+    margin-top: 40px;
+}
+
+.energy .grid__item.product-single__media-group {
+    margin-top: -60px;
+}
+.reinventu-blue-watermelon-healthy-energy .grid__item.product-single__media-group {
+    margin-top: -20px;
+}
+
+.mobile-banner {
+       background: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/desktop-title-banner-merged.png?v=1637225917);
+    background-size: 100%;
+    background-position: center;
+    color: #fff;
+    margin: 0 0 -5.5em -2em;
+    padding: 4em 2em 4.5em 2em;
+    text-align: center;
+}
+ .mobile-banner p {
+ 	color: #fff;
+    font-size: 22px;
+    font-weight: 100;
+    letter-spacing: 8px;
+    font-family: Montserrat;
+    margin-bottom: -5px;
+   
+}
+.mobile-banner h2 {
+
+    font-family: 'Organetto UltraBold Ext';
+    font-weight: 700;
+  font-size: 3.6em;
+    letter-spacing: 0;
+}
+.product-single__meta {
+    padding-top: 80px;
+}
+ .shopify-installments {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.fat-burner .product-single__title {
+    margin-bottom: 0.1rem;
+   
+    color: #353435;
+    font-weight: 700;
+    font-size: 1.8em;
+    font-family: 'Montserrat' !important;
+  	color:#353435;
+}
+.fat-burner span.price-item.price-item--regular {
+    font-size: 1.4em;
+    font-weight: 700;
+    font-family: Montserrat;
+    color: #353435;
+}
+.fat-burner .product-form__item .product-form__cart-submit {
+    background: #2D89F9;
+    color: #fff;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 1.2em;
+    text-transform: capitalize;
+    height: 50px;
+    border-radius: 8px;
+}
+.fat-burner .product-form__item .product-form__cart-submit:after {
+    content: "+";
+    font-family: 'Montserrat';
+    font-size: 40px;
+    font-weight: 400;
+    color: #fff;
+    float: right;
+    line-height: 26px;
+}
+ .fat-burner h4 {
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-right: 25px;
+   font-family: 'Montserrat';
+    font-weight: 700;
+   color: #282828;
+    border-bottom: 2px solid #2c82ec;
+    padding-bottom: 22px;
+   margin-bottom: 0;
+}
+.fat-burner .product-single__description {
+    margin-top: 22px;
+    padding: 50px 0 55px 30px;
+    display: table-cell;
+}
+.product__price .price {
+    margin-bottom: 0;
+}
+.prod-desc-img {
+    float: left;
+    display: table-cell;
+    width: 32%;
+    padding: 55px 25px;
+  position: relative;
+  
+}
+.prod-desc-img:after {
+    border-width: 4px;
+    border-style: solid;
+    position: absolute;
+    top: 0;
+    bottom: 30px;
+    left: 0px;
+    right: 46px;
+    content: '';
+    border-image: linear-gradient(5deg,#64a3f1,#64a3f1,rgba(0,0,0,0) ,rgba(0,0,0,0)) 1;
+    z-index: -1;
+}
+.greens .prod-desc-img:after {
+   
+    border-image: linear-gradient(5deg,#c3d76b,#c3d76b,rgba(0,0,0,0) ,rgba(0,0,0,0)) 1;
+  
+}
+.greens p.flavor {
+    color: #c3d76b;
+}
+.greens .fat-burner .product-single__description p {
+    font-family: 'Montserrat';
+    font-weight: 500;
+  	color: #666666;
+}
+p.lable-head {
+    color: #9f9f9f;
+    font-weight: 400;
+}
+.fat-burner .product-single__description.rte li {
+    color: #26b5e9;
+    font-weight: 500;
+}
+
+.greens .product-single__description.rte li {
+		color: #c3d76b;
+  }
+
+.fat-burner .product-single__description.rte ul {
+    margin-left: 0!important;
+  	padding-left: 20px;
+}
+
+ .cust-img ul { 
+  display: flex;
+  flex-flow: row wrap;
+  margin-left: -8px; /* Adjustment for the gutter */
+  width: 100%;
+}
+
+.cust-img ul li {
+  flex: auto;
+  height: 250px;
+  min-width: 150px;
+  margin: 0 8px 8px 0; /* Some gutter */
+}
+.testmonial-section .title{
+  font-family: 'North Coast', sans-serif;
+  color:#fff;
+  transform: rotate(-11deg);
+}
+.testmonial-section p {
+ font-size:70px;
+   text-shadow:
+       3px 3px 0 #0fb9ea,
+     -1px -1px 0 #0fb9ea,  
+      1px -1px 0 #0fb9ea,
+      -1px 1px 0 #0fb9ea,
+       1px 1px 0 #0fb9ea;
+  display:block;
+  clear:both;
+  text-align:center;
+  color:#fff;
+}
+.testmonial-section span {
+  text-shadow:
+       3px 3px 0 #e040a0,
+     -1px -1px 0 #e040a0,  
+      1px -1px 0 #e040a0,
+      -1px 1px 0 #e040a0,
+       1px 1px 0 #e040a0;
+  font-size:40px;
+display:block;
+  clear:both;
+  text-align:center;
+  color:#fff;
+}
+p.flavor {
+    font-size: 16px;
+}
+.testmonial-section {
+    padding: 50px 0;
+}
+  .testimonial-bg {
+    background:url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/testimonial-bg.png?v=1635429911);
+    padding: 50px 0 150px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+.testimonial-slide .slick-prev:before {
+    content: '';
+    margin-left: -1rem;
+    position: absolute;
+    top: 0;
+    width: 50px;
+    height: 50px;
+    display: block;
+    background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/circle-arrow-prev.png?v=1635431894);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.testimonial-slide .slick-next:before {
+    content: '';
+    margin-left: -2rem;
+    position: absolute;
+    top: 0;
+    width: 50px;
+    height: 50px;
+    display: block;
+    background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/circle-arrow-next.png?v=1635431894);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+ .white-bg{
+   background:rgba(255,255,255,0.7);
+   padding:20px;
+   margin: 25px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 0px rgb(0 0 0 / 20%);
+   
+ }
+.testimonial-title {
+  font-family:'Montserrat';
+  color:#2d2e2e;
+  font-size:18px;
+  font-weight:600;
+}
+.white-bg > p {
+  font-family:'Montserrat';
+  color:#292929;
+  font-size:14px;
+  font-weight:500;
+  font-style:italic;
+  text-shadow: none;
+  line-height: normal;
+  margin: 20px  10px;
+}
+.verified-purchase {
+    max-width: 75%;
+    margin: 20px auto;
+}
+span.rating {
+    max-width: 40%;
+    float: right;
+    margin-top: 12px;
+}
+.testimonial-title {
+    font-family: Montserrat;
+    color: #2d2e2e;
+    font-size: 1.8em;
+    font-weight: 600;
+}
+div#shopify-section-product-recommendations .page-width {
+    width: 100%;
+    max-width: 100%;
+  	padding:0;
+}
+div#shopify-section-product-recommendations .section-header {
+    background: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/hedaing-banner-desktop.jpg?v=1635768361);
+  	padding:50px 0 80px 0;
+}
+div#shopify-section-product-recommendations .section-header h2 {
+    font-weight: 300;
+    font-family: 'Montserrat';
+    color: #fff;
+    font-size: 22px;
+  	margin-bottom: 0;
+}
+
+#shopify-section-product-recommendations  h2:nth-child(1){
+letter-spacing: 12px;
+    font-weight: 200 !important;
+}
+  div#shopify-section-product-recommendations .section-header h2.subhead {
+    font-weight: 700;
+    font-family: 'Organetto UltraBold Ext';
+    color: #fff;
+    font-size: 40px;
+}
+.product-recommendations__inner .slick-slider {
+    margin-top: -115px;
+}
+.recommended-products-title.h4 {
+    color: #535353;
+    font-size: 19px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 500;
+  text-transform:uppercase;
+}
+p.recommended_product_subtitle.text-center {
+    color: #535353;
+}
+
+.product-single__thumbnails {
+    padding-left: 0;
+}
+.collection-display .product-card .product-card__image-wrapper {
+    height: 250px;
+  text-align:center;
+}
+img.product-card-image {
+    max-height: 100% !important;
+    width: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+.product-recommendations__inner .grid-view-item__image {
+    width: auto !important;
+    height: 100%;
+    max-width: 100% !important;
+}
+.subscribe-section {
+    padding: 70px;
+    text-align: center;
+  background: #f8f8f8;
+}
+.subscribe-section h1 {
+    color: #3f3f3f;
+    font-family: 'Organetto UltraBold Ext';
+    border-bottom: 2px solid #229ee2;
+    padding-bottom: 10px;
+    position: relative;
+    width: 27%;
+    margin: 10px auto 0 auto;
+    background: #f8f8f8;
+    line-height: 0.9;
+    font-size: 32px;
+}
+
+.newsletter_mid_text{
+font-size: 40px;
+}
+.subscribe-section h1:after {
+    content: "";
+    background: #f8f8f8;
+    height: 5px;
+    bottom: -3px;
+    width: 190px;
+    position: absolute;
+    right: 0;
+}
+
+.subscribe-section h1:before {
+    content: "";
+    background: #f8f8f8;
+    height: 5px;
+    width: 190px;
+    left: 0;
+    bottom: -3px;
+    position: absolute;
+}
+.subscribe-section h1 span {
+    display: block;
+    color: #Df3f3f;
+}
+.subscribe-section p {
+    color: #3f3f3f;
+    font-family: 'Montserrat';
+    margin: 15px 0;
+  	font-size: 18px;
+}
+.signup input {
+    background: #e9e9e9;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 4px;
+}
+.bundle__info {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+button.signupbtn {
+    background: #229ee2;
+    border: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    padding: 10px 15px;
+  border-radius: 4px;
+}
+.cust-img-container {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  padding: 2px;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.item-box {
+  height: 184px;
+  width: 49%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+.item-box:first-child img {
+    height: 100%;
+}
+
+.item-box:first-child {
+    order: 1;
+    height: 368px;
+}
+  .item-box:nth-child(2) {
+    order: 2;
+}
+  .item-box:nth-child(3) {
+    order: 3;
+}
+.QuantityInput_picky-product-quantity-input_3ZQjb .QuantityInput_inc-button_3erOg span, .QuantityInput_picky-product-quantity-input_3ZQjb .QuantityInput_dec-button_2P6zs span {
+	color:#2d89fa;
+	font-size: 30px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+.QuantityInput_picky-product-quantity-input_3ZQjb .QuantityInput_dec-button_2P6zs, .QuantityInput_picky-product-quantity-input_3ZQjb .QuantityInput_inc-button_3erOg {
+    border: 3px solid #2d89fa !important;
+    color: #2d89fa !important;
+    height: 55px !important;
+    width: 85px !important;
+    border-radius: 14px;
+    background: #fff;
+}
+.QuantityInput_picky-product-quantity-input_3ZQjb input:not([type=radio]):not([type=checkbox]):not([type=submit]).QuantityInput_input_3ByxW {
+    height: 55px !important;
+    width: 90px !important;
+    margin: 0 4px !important;
+    border-radius: 14px !important;
+    background: #fff !important;
+    border: 3px solid #2d89fa !important;
+  	font-weight:700;
+      font-size: 1.5em !important; 
+}
+.ComboSlide_picky-combo-slide-container_ZrAxF .ComboSlide_picky-combo-slide-content_1e7bJ .ComboSlide_quantity-wrap_3Tgdz {
+	    width: 233px!important;
+    max-width: 100%!important;
+    margin: 10px 0 0 0!important;
+}
+.QuantityInput_picky-product-quantity-input_3ZQjb {
+  height:70px !important;
+}
+.ComboSlide_picky-combo-slide-container_ZrAxF .ComboSlide_picky-combo-slide-content_1e7bJ .ComboSlide_quantity-wrap_3Tgdz .ComboSlide_quantity-column_3X8jA {
+  max-width:100% !important;
+}
+.ComboSlide_picky-combo-slide-container_ZrAxF .ComboSlide_picky-combo-slide-content_1e7bJ .ComboSlide_atc-button-wrap_2dlwy {
+    width: 50% !important;
+    display: inline-block !important;
+    float: right;
+    position: absolute;
+    bottom: 28px;
+    right: -10px;
+    border-radius: 4px;
+    height: 67px;
+}
+.ComboSlide_picky-combo-slide-container_ZrAxF .ComboSlide_picky-combo-slide-content_1e7bJ .ComboSlide_atc-button-wrap_2dlwy:after {
+    content: "+";
+    float: right;
+    position: absolute;
+        right: 32px;
+    top: 21px;
+    font-size: 40px;
+    color: #fff;
+    z-index: 7;
+    font-weight: 500;
+}
+.QuantityInput_input_3ByxW {
+    -moz-appearance: textfield !important;
+}
+button.AddSelectedToCart_picky-add-selected-to-cart-button_1WuCf {
+    font-family: 'Montserrat';
+    background: #2d89fa !important;
+    border-radius: 14px;
+       width: 248px!important;
+    height: 76px!important;
+}
+.AddSelectedToCart_picky-add-selected-to-cart-button_1WuCf span {
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.ComboSlide_quantity-title_3a5X1 {
+    font-size: 0 !important;
+}
+.ComboProductCard_card-info-wrap_bNw_Y {
+    background: #d6d6d6;
+    padding: 5px 20px;
+    width: max-content !important;
+    height: fit-content !important;
+    border-radius: 7px;
+}
+.picky-widget .multiselect {
+    padding-right: 25px;
+}
+.ProductOption_picky-product-option_2PEvC {
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+.ComboProductCard_picky-combo-product-card_2fhN9 .ComboProductCard_card-info-wrap_bNw_Y .ComboProductCard_options-wrap_M3GDZ .ComboProductCard_option-wrap_3n4AS {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+.ProductOption_picky-product-option_2PEvC {
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+}
+.ComboProductCard_picky-combo-product-card_2fhN9 .ComboProductCard_card-info-wrap_bNw_Y {
+    width: auto !important;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    -webkit-box-align: start !important;
+    -ms-flex-align: stretch;
+    align-items: flex-start !important;
+    -webkit-box-pack: start !important;
+    -ms-flex-pack: initial;
+    justify-content: left !important;
+    min-width: 0;
+}
+.ComboProductCard_picky-combo-product-card_2fhN9 .ComboProductCard_card-info-wrap_bNw_Y .ComboProductCard_title_2yy75, .ProductOption_picky-product-option_2PEvC .ProductOption_title_oEe3n {
+    font-size: 18px !important;
+    font-family: 'Montserrat';
+    font-weight: 600 !important;
+}
+.ProductOption_title_oEe3n {
+    margin: 3px 20px 6px 6px !important; 
+    color: #000 !important;
+    opacity: 1 !important;
+  margin-right: 0px !important;
+}
+.picky-widget .multiselect__select {
+    height: 30px !important;
+    width: 30px;
+    background: #2d89fa;
+  right: -5px !important;
+    border-radius: 20px !important;
+    color: #fff;
+  
+}
+.picky-widget .multiselect__single {
+    background: transparent !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 26px !important;
+}
+.multiselect__select:before {
+    position: absolute !important;
+    right: 4px !important;
+    top: 0 !important;
+    color: #999;
+    margin-top: 12px !important;
+    border-style: solid;
+    border-width: 0!important;
+    border-color: transparent!important;
+    background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/down-arrow.png?v=1637159324);
+    height: 12px;
+    width: 21px;
+}
+.ProductOption_picky-product-option_2PEvC .ProductOption_option-label_32G0Y {
+    font-family: 'Montserrat' !important;
+    font-weight: 600;
+    font-size: 18px !important;
+  margin-right:20px;
+}
+.ComboProductCard_picky-combo-product-card_2fhN9 .ComboProductCard_card-info-wrap_bNw_Y .ComboProductCard_title_2yy75{
+text-align: initial;
+    width: auto;
+
+}
+.multiselect__content-wrapper {
+   
+   width: revert !important;
+  overflow: revert !important;}
+.picky-widget .multiselect__tags {
+    background: transparent !important;
+    border: transparent !important;
+}
+.ComboProductCard_picky-combo-product-card_2fhN9 {
+    min-height: auto !important;
+}
+@media only screen and (max-width: 750px) {
+
+
+  .site-header{
+  background: #fff;
+  position: relative !important;
+  }
+.fullbg-test-overhealth-section {
+    padding-top: 20em;
+}
+ .test-overhealth-section {
+    margin-top: 0 !important;
+}
+.fat-burner h4 {
+  color:#282828;
+  border-bottom:4px solid #2c82ec;
+  padding-bottom:22px;
+}
+.fat-burner .product-single__description p {
+  color:#666666;
+}
+.fat-burner .product-single__description {margin-top:22px;}
+.fat-burner .product-single__description .lable-head {
+	color:#9f9f9f;
+}
+.fat-burner .product-single__description.rte li {
+    color: #26b5e9;
+    font-weight: 500;
+}
+  .greens .product-single__description.rte li {
+		color: #c3d76b;
+  }
+.fat-burner .product-single__description.rte ul {
+    margin-left: 0 !important;
+}
+.visible-xs {
+    display: block;
+}
+}
+
+@media all and (device-width: 768px) {
+  
+    #SiteNav li{
+  padding: 0;
+  border: none;
+  }
+  .site-header{
+  background: white;
+  position: relative !important;
+  }
+}
+
+@media  (max-width: 1024px){
+  .site-header{
+  background: white;
+  position: relative !important;
+  }
+}
+#shopify-section-header {
+    position: sticky;
+    top: 0px;
+    z-index: 22;
+ 
+}
+section#yourturn-section {
+    background: #fff url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/about_bg.png?v=1627398310) center bottom no-repeat;
+}
+.site-header.active{
+
+ box-shadow: 0 2px 5px rgb(0 0 0 / 20%);
+  background: rgb(255 255 255 / 90%);
+}
+
+.ab-wrapper{
+
+background:black;
+
+    border-radius: 70px;
+  padding:25px;
+}
+ .navbar-brand img{
+    width: 70%;
+}
+img.mobile-img {
+    position: absolute;
+    display: flex;
+    left: auto;
+    right: auto;
+    text-align: center;
+    width: 400px;
+    left: 50%;
+    transform: translate(-50%,-25%);
+}
+.ath-menu2 img{
+
+
+width:auto;
+height: auto;}
+
+
+
+
+/* FOOTER HIDE */
+
+.footer{
+background-color: #3A3A3A;}
+.footer a, .footer-links-title{
+color :#fff;
+}
+.site-footer-old{
+	display: none;
+}
+.footer-social-sharing .social-icon {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    border-radius: 40px;
+    text-align: center;
+    background-color: #fff;
+    transition: all .3s ease;
+}
+.footer-social-sharing .social-icon:hover svg {
+    fill: #dd4398;
+}
+
+
+.footer a:focus, .footer a:not([disabled]):hover{
+
+color:#dd4398;
+}
+.slick-athletes{
+background: none !important;
+}
+.footer li {
+    padding-bottom: 10px;
+}
+/* testoterone page by nik */
+
+/*  Hero section starts here....   */
+.hero-section {
+    width: 100%;
+    background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/MAINHEROIMG.jpg?v=1628165160);
+    background-size: cover;
+    padding: 110px 0 190px;
+    background-position: center bottom;
+}
+.hero-section h2 {
+    font-size: 2.5em;
+}
+.hero-section p {
+    font-size: 1.2em;
+    line-height: 44px;
+    font-weight: 200;
+}
+
+
+p.w-75.mx-auto.fw-light {
+  color:white;
+}
+/*  Hero section end here....   */
+
+
+/*  Aboutvideo section starts here....   */
+.aboutvideo-section{height: auto;
+    width: 100%;
+    margin-top: -120px;}
+
+/*  Aboutvideo section ends here....   */
+
+
+/*  askquestion-section starts here....   */
+.askquestion-section {
+  height: auto;
+  width: 100%;
+  background-image: url("https://cdn.shopify.com/s/files/1/0560/3321/4631/files/HEROBOTTOMBG.jpg?v=1628165160");
+  margin-top: -150px;
+  background-size: cover;
+}
+.askquestion-section input {
+    border: 2px solid #ffff;
+    border-radius: 50px;
+    background: 0 0;
+    width: 100%;
+    padding: 8px 20px;
+    color: #fff;
+    font-size: 24px;
+}
+
+.askquestion-section input::placeholder {
+    font-size: 22px;
+  padding-left: 10px;
+    font-size: 24px;
+    color: #fff;
+    opacity: 1;
+}
+.askquestion-section h6 {
+    font-size: 30px!important;
+    font-family: Montserrat;
+}
+.askquestion-section p {
+  font-size: 27px !important;
+}
+.bundle-feature li {
+    list-style-image: url("https://cdn.shopify.com/s/files/1/0560/3321/4631/files/bullet-icon.png?v=1637255545");
+}
+.bundle-feature {
+margin: 0.5rem 0;
+}
+hr {
+  border: 0;
+  height: 3px !important;
+  background-image: linear-gradient(
+    to right,
+    #03a9f4,
+    rgb(249 248 248 / 75%),
+    #03a9f4
+  );
+}
+/* askquestion-section ends here....   */
+
+.dr-name {
+    font-family: 'Organetto UltraBold Ext';
+}
+.dr-text{
+color: #000;}
+
+/* testoterone page */
+.simple-steps *{
+text-transform: uppercase;
+
+}
+.simple-steps h1, .simple-steps  h2{font-size: 1.2em;    font-family: "Organetto UltraBold Ext";}
+
+.medical-advisory h2{
+  font-size: 2em;    font-family: "Organetto UltraBold Ext";
+  margin-top: 3em;
+
+}
+.images img{
+width:40%;
+}
+
+.simple-steps h2 {
+    color: #1f9fe3;
+  margin: auto;
+}
+button.step-btn {
+    margin: auto;
+    display: block;
+    padding: 1em 5em;
+    FONT-VARIANT: JIS04;
+    font-family: 'Organetto UltraBold Ext';
+    border: none;
+    background-color: #1f9fe3;
+    border-radius: 86px;
+    color: white;
+    transition: all 0.6s ease;
+}
+.step-head{
+color:black !important;
+}
+.steps-global{
+position: relative;}
+.simple-steps .step-head span ,.font-blue{
+    color: #1f9fe3;
+}
+
+.simple-steps .col-7{
+
+    margin: auto;
+}
+ .step-text{
+margin: auto;
+  
+}
+.step-text p{
+font-size: 16px;
+
+}
+/* medical advisory */
+
+
+.dr-img img {
+    border: 3px solid #0099f3;
+    border-radius: 50%;
+    width: 150px;
+    margin: 1em;
+}
+/* faq */
+h2.faq-head {
+    width: fit-content;
+    border: 3px solid;
+    padding: 10px 20px;
+    margin: auto;
+    border-radius: 44px;
+      font-family: 'Organetto UltraBold Ext';
+   
+}
+.questions {
+    width: fit-content;
+    margin: auto;
+    padding: 15px 20px;
+    background: linear-gradient(
+45deg
+, #00a5f4, #c0f3ff);
+    margin: 10px auto;
+    border-radius: 44px;
+    color: white;
+    font-family: 'Organetto UltraBold Ext';
+}
+/* margin-top  */
+.faq, .therapy-plans, .steps-global, .medical-advisory{
+margin-top:3em;
+  
+}
+
+.hormone-video
+{
+    z-index: 1;
+  	text-align: center;
+}
+
+
+
+.step-head {
+    color: #000!important;
+    padding: 0 0 80px;
+}
+h2.step-head:after, h2.step-head:before {
+    content: '';
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100%;
+    width: 200px;
+    top: 13px;
+}
+h2.step-head:before {
+    background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/step_line1.png?v=1628161407);
+    left: 0;
+}
+h2.step-head:after {
+    background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/step_line2.png?v=1628161407);
+    right: 0;
+}
+.steps .images img {
+    width: 100%;
+    max-width: 510px;
+    height: 160px;
+    object-fit: cover;
+}
+
+.step-text p{
+    text-transform: none;
+    color: #1d1d1d;
+    font-size: 18px;
+    line-height: 28px;
+}
+.steps .images {
+    position: relative;
+    padding-right: 0;
+}
+.steps .images img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+}
+.steps .images:after {
+    content: '';
+    position: absolute;
+    background-image: -moz-linear-gradient( 180deg, rgb(11,186,251) 0%, rgb(66,133,236) 100%);
+    background-image: -webkit-linear-gradient(180deg , rgb(11,186,251) 0%, rgb(66,133,236) 100%); 
+    background-image: -ms-linear-gradient( 180deg, rgb(11,186,251) 0%, rgb(66,133,236) 100%);
+    width: 100%;
+    height: 5px;
+    left: 100%;
+    right: 0;
+    top: 50%;
+    z-index: -1;
+}
+
+.step-data {
+    padding: 20px 0;
+}
+.step-btn-main {
+    position: relative;
+    text-align: center;
+    padding: 70px 0 0;
+    margin: 0 auto 100px;
+}
+.step-btn-main:after, .step-btn-main:before {
+    content: '';
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:63px;
+    width: 130px;
+    bottom: 20px;
+}
+
+.step-btn-main:before {
+    background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/step_line3.png?v=1628161407);
+    left: 0;
+}
+.step-btn-main:after {
+    background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/step_line4.png?v=1628161407);
+    right: 0;
+}
+.percentman-section{
+        position: relative;
+      }
+      .percentman-section img {
+        width: 100%;
+      }
+      button.percent_btn {
+        border-radius: 43px;
+        background-image: -moz-linear-gradient( 0deg, rgb(45,45,45) 0%, rgb(56,56,56) 100%);
+        background-image: -webkit-linear-gradient( 0deg, rgb(45,45,45) 0%, rgb(56,56,56) 100%);
+        background-image: -ms-linear-gradient( 0deg, rgb(45,45,45) 0%, rgb(56,56,56) 100%);
+        box-shadow: 0px 0px 4.26px 1.74px rgb(0 0 0 / 19%);
+        position: absolute;
+        font-size: 35px;
+        color: rgb(249, 249, 249);
+        text-align: center;
+        font-family: 'Organetto UltraBold Ext';
+        border: 0;
+        padding: 10px 40px;
+        left: 50%;
+        transform: translate(-50%);
+        width: 850px;
+        bottom: -20px;
+      }
+      button.percent_btn span {
+        color: #00a8f6;
+      }
+button.hero-btn {
+    margin: auto;
+    display: block;
+    padding: 13px 50px;
+    font-family: 'Organetto UltraBold Ext';
+    border: none;
+    background-color: #2f2f2f;
+    border-radius: 86px;
+    color: #fff;
+    font-size: 1.2em;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: -20px;
+  	transition: all .6s ease;
+}
+.mainhero-section img {
+    max-width: 180px;
+}
+.askquestion-section{
+
+  z-index:  -1;
+}
+
+.askquestion-section .container{
+	position: relative;
+
+}
+
+
+/* schedule a visit section   */
+section.therapy-plans {
+    padding: 100px 0;
+}
+.therapy-plans-box {
+    border-radius: 50px;
+    box-shadow: 0px 0px 26.98px 11.02px rgb(0 0 0 / 16%);
+    text-align: center;
+    padding: 0 0 20px;
+    overflow: hidden;
+}
+.therapy-plan-img {
+background-image: -moz-linear-gradient(180deg,#0bbafb 0,#4285ec 100%);
+background-image: -webkit-linear-gradient(
+180deg
+,#0bbafb 0,#4285ec 100%);
+background-image: -ms-linear-gradient(180deg,#0bbafb 0,#4285ec 100%);
+padding: 20px;
+height: 100px;
+justify-content: center;
+align-items: center;
+display: flex;
+}
+
+
+.therapy-plans-box h4, .therapy-plans-detail-box h4 {
+    font-family: "Organetto UltraBold Ext";
+    font-size: 28px;
+    padding: 30px 0 25px;
+}
+.therapy-plans-detail-box ul {
+    padding: 0;
+}
+.therapy-plans-box ul {
+    padding: 0 15px;
+}
+.therapy-plans-box li, .therapy-plans-detail-box li {
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 10px 0;
+    border-top: 3px solid #c5c5c5;
+    font-weight: 500;
+}
+.therapy-plans-detail-box li {
+    border-color: #fff;
+}
+.therapy-plan-img img {
+max-width: 300px;
+width: 100%;
+}
+.therapy-plans-detail-box {
+    border-radius: 50px;
+    background-image: -moz-linear-gradient( 0deg, rgb(1,94,234) 0%, rgb(0,192,250) 100%);
+    background-image: -webkit-linear-gradient(0deg , rgb(1,94,234) 0%, rgb(0,192,250) 100%);
+    background-image: -ms-linear-gradient( 0deg, rgb(1,94,234) 0%, rgb(0,192,250) 100%);
+    text-align: center;
+    color: #fff;
+    padding: 96px 15px 20px;
+}
+.testosterone-section{
+        background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/testosterone_bottom_bg.png?v=1628178577);
+        background-position: top right;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        padding: 100px 0;
+      }
+      .testosterone_details {
+          text-align: center;
+      }
+      .testosterone_details h3 {
+          font-size: 47px;
+          font-family: "Organetto UltraBold Ext";
+      }
+      .testosterone_details p {
+          font-size: 24px;
+          font-family: Montserrat;
+         color: #fff;
+    margin: 30px 0;
+      }
+      button.testosterone_btn {
+        padding: 13px 50px;
+        font-family: 'Organetto UltraBold Ext';
+        border: none;
+        background-color: #2f2f2f;
+        border-radius: 86px;
+        color: #fff;
+        font-size: 28px;
+      }
+      button.testosterone_btn span{
+        color: #00a8f6;
+      }
+.testosterone-section p{
+color: #fff}
+
+/* faq */
+section.faq {
+padding: 60px 0;
+}
+h2.faq-head {
+width: fit-content;
+border: 3px solid;
+padding: 15px 50px;
+margin: auto;
+border-radius: 44px;
+color: #018df2;
+font-size: 2.5em;
+letter-spacing: -2px;
+text-align: center;
+}
+.question-wrapper {
+margin: 50px auto 0;
+max-width: 950px;
+}
+.accordion-item {
+border-radius: 50px;
+background-image: -moz-linear-gradient( 0deg, rgb(1,94,234) 0%, rgb(0,192,250) 100%);
+background-image: -webkit-linear-gradient(0deg , rgb(1,94,234) 0%, rgb(0,192,250) 100%);
+background-image: -ms-linear-gradient( 0deg, rgb(1,94,234) 0%, rgb(0,192,250) 100%);
+color: #fff;
+border: 0;
+margin: 0 0 20px;
+}
+button.accordion-button {
+border-radius: 50px;
+background-image: -moz-linear-gradient( 0deg, rgb(1,94,234) 0%, rgb(0,192,250) 100%);
+background-image: -webkit-linear-gradient(0deg , rgb(1,94,234) 0%, rgb(0,192,250) 100%);
+background-image: -ms-linear-gradient( 0deg, rgb(1,94,234) 0%, rgb(0,192,250) 100%);
+color: #fff;
+border: none;
+padding: 20px 30px 20px;
+font-size: 20px;
+}
+.accordion-button:not(.collapsed) {
+color: #ffffff;
+background-color: transparent;
+box-shadow: none;
+border-radius: 50px 50px 0 0;
+}
+.accordion-button:focus {
+z-index: 3;
+border-color: #86b7fe;
+outline: 0;
+box-shadow: none;
+}
+.accordion-body {
+padding: 10px 30px 30px;
+border-top: 2px solid #ffffff;
+font-size: 16px;
+line-height: 28px;
+}
+.accordion-item:first-of-type,.accordion-item:first-of-type .accordion-button {
+border-top-left-radius: 50px;
+border-top-right-radius: 50px;
+}
+.accordion-item:last-of-type .accordion-button.collapsed ,.accordion-item:last-of-type .accordion-collapse,.accordion-item:last-of-type{
+border-bottom-right-radius: 50px;
+border-bottom-left-radius: 50px;
+}
+.accordion-button::after{
+background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/faq_add.png?v=1628179641);
+width: 50px;
+height: 50px;
+background-size: 50px;
+}
+.accordion-button:not(.collapsed)::after {
+background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/faq_remove.png?v=1628179641);
+transform: rotate(-180deg );
+}
+
+
+/* niket's css for slider sectionj */
+
+/* / .... newclienttestimonials section starts here.... / */
+.newclienttestimonials{
+height: auto;
+width: 100%;
+background: url("https://cdn.shopify.com/s/files/1/0560/3321/4631/files/testimonialbgimage.jpg?v=1628250811");
+background-size: 100% 100%;
+}
+.newclienttestimonials .testimonialhead h2{
+  font-size: 2.25em !important;
+  color: #ffff;
+}
+.newclienttestimonials .testimonialhead span{
+    color: #0093f3;
+}
+.newclienttestimonials .testimonialhead p{
+  font-size: 28px!important;
+  color: #ffff;
+}
+.newclienttestimonials .clienttestimonials {
+  border-radius: 30px;
+}
+.newclienttestimonials .clienttestimonials .clientinfo p{
+ font-size: 12px !important;
+
+}
+.newclienttestimonials .clienttestimonials .mainreviewtext p{
+  font-size: 17px !important;
+  color: #000000;
+ 
+ }
+ .newclienttestimonials{
+   position: relative;
+ }
+ .newclienttestimonials button span{
+  color: #0093f3;
+}
+
+.newclienttestimonials  button {
+  margin: auto;
+  display: block;
+  padding: 13px 50px !important;
+  font-family: 'Organetto UltraBold Ext';
+  border: none;
+  background-color: #2f2f2f !important;
+  border-radius: 86px !important;
+  color: #fff !important;
+  font-size: 1.2em !important;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  bottom: -10px;
+  
+}
+.newclienttestimonials .testimonialhead h2{
+  padding-top: 5rem;
+}
+
+.newclienttestimonials  .slick-prev, .newclienttestimonials  .slick-next{
+display:none !important;}
+.testimonialhead.pt-5 {
+    margin-bottom: 3em;
+}
+/* / .... newclienttestimonials section ends here.... / */
+
+.border-r {
+    border-right: 1px solid #fff;
+    padding-right: 50px;
+}
+.arrows img {
+    width: 40px !important;
+}
+
+/* pop up */
+
+.privy-label-text {
+    width: 60%;
+    font-size: 10px;
+}
+
+.ath-ig:hover img{
+opacity: 0.8;
+}
+
+/* iv page */
+
+/*  ....Hero-section starts here....   */
+.hero-section-iv {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    background-position-x: center;
+
+}
+
+
+.section-header{
+margin: 3em 0 2em;
+}
+
+.hero-section-iv h2 {
+      font-size: 48px;
+    color: #c151a3;
+    font-family: "Organetto UltraBold Ext";
+    letter-spacing: 0;
+    margin: 0 0 20px;
+}
+.hero-section-iv p {
+    font-size: 34px;
+    line-height: 44px;
+      color: #545454;
+}
+.hero-section-iv button {
+      font-size: 26px;
+    background-image: -webkit-linear-gradient(0deg,#dd4398 0,#00aeef 100%);
+    background-image: -ms-linear-gradient(0deg,#dd4398 0,#00aeef 100%);
+    border: none;
+    font-weight: 600;
+    border-radius: 25rem;
+    padding: 18px 50px;
+    color: #fff;
+    font-family: "Organetto UltraBold Ext";
+    margin: 20px 0 0!important;
+}
+
+button.visitinbutton {
+    margin: auto;
+
+    padding: 13px 50px;
+    font-family: "Organetto UltraBold Ext";
+    border: none;
+    background-color: #fff;
+    border-radius: 86px;
+    color: #0e0e0e;
+    font-size: 26px;
+        position: relative;
+    top: -35px;
+}
+/* button.visitinbutton span {
+} */
+/*  ....Hero-section ends here....  */
+
+/*  ....Hydrate-section starts here.... */
+.hydratesection-iv {
+  width: 100%;
+  height: auto;
+  background-image:  url("https://cdn.shopify.com/s/files/1/0560/3321/4631/files/hydratesection_bgimage.png?v=1628769867"),-webkit-linear-gradient(
+    0deg,
+    rgb(221, 67, 152) 0%,
+    rgb(0, 174, 239) 100%
+  );
+  color: #fff;
+      text-align: center;
+}
+.hydratesection-iv h4 {
+  font-size: 40px;
+  font-family: "Organetto UltraBold Ext";
+}
+.hydratesection-iv P {
+  font-size: 23px;
+  font-family: Montserrat;
+  color: white;
+
+}
+.hydratesection-iv img {
+  height: 100px;
+  margin-bottom: 20px;
+}
+/*  ....Hydrate-section ends here.... */
+
+.benefits .content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+section.benefits button {
+    font-family: 'Organetto UltraBold Ext';
+    font-size: x-large;
+}
+.benefits h1, .benefits h2 {
+    font-size: 46px;
+    color: #c250a3;
+font-family: "Organetto UltraBold Ext";
+}
+
+.blu{
+color: #1da0e4;
+}
+.benefits p {
+    width: 80%;
+}
+.benefits .row > div{
+padding: 0;
+  
+}
+
+.benefits img{
+
+display:block;
+margin: auto;
+width: -webkit-fill-available;
+
+}
+
+.desktop-apparel-img {
+    display: flex;
+    justify-content: space-evenly;
+}
+#customersreviewsection-iv h1 {
+  font-family: "Organetto UltraBold Ext";
+  color: #ffffff;
+}
+#customersreviewsection-iv h1 span {
+  color: #00aeef;
+}
+#customersreviewsection-iv .clientinfo h5 {
+  font-size: 20px !important;
+}
+#customersreviewsection-iv > img {
+  border: 1px solid rgb(175, 175, 175);
+  border-radius: 100px;
+  box-shadow: 4px 0px 10px;
+}
+#customersreviewsection-iv .customers-review {
+  border-radius: 30px;
+}
+#customersreviewsection-iv {
+    background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/backback.png?v=1628779067);
+    background-repeat: no-repeat;
+  
+}
+#customersreviewsection-iv h1 {
+    font-family: "Organetto UltraBold Ext";
+    color: #fff;
+}
+
+
+.benefits.amb h2{
+font-size: 3rem;
+      background: -webkit-linear-gradient(
+45deg
+,#c533c5,#32a3cf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+
+
+/* .... Newtimerheader section starts here .... */
+.newtimerheadersection {
+    background-position: top right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 18rem 0;
+    height: 100vh;
+  	position: relative;
+}
+.newcounter {
+    padding: 0;
+}
+.newcounter_inner {
+    padding: 40px ;
+    background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/hero_bg2.png?v=1629271595);
+    background-repeat: no-repeat;
+    background-position: center left;
+  	background-size: cover;
+    max-width: 1170px;
+    margin: 0 0 10px auto;
+    text-align: center;
+}
+
+.newtimerheadersection p.exclusive {
+    color: #fff;
+    font-size: 26px;
+    word-spacing: 10px;
+    letter-spacing: 18px;
+    font-weight: 500;
+    margin: 0 auto;
+    padding: 0;
+}
+.newtimerheadersection h2 {
+    color: #fff;
+    font-size: 32px;
+    font-family: "Organetto UltraBold Ext";
+    word-spacing: 5px;
+    letter-spacing: 5px;
+  	margin: 0 0 20px;
+}
+.timecountsection {
+    justify-content: center;
+}
+.newtimerheadersection .timecountsection p {
+    color: #fff;
+    font-size: 46px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    border: 3px solid #fff;
+    border-radius: 100%;
+    margin: auto;
+    display: flex;
+    flex-flow: column;
+    padding: 71px;
+    min-width: 110px!important;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 110px;
+    line-height: normal;
+}
+.newtimerheadersection .timecountsection p span {
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0;
+}
+h3.olympia {
+    position: relative;
+    color: #36a4e7;
+    text-transform: uppercase;
+    font-family: Montserrat;
+    padding: 0;
+    background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/hero_bg3.png?v=1629271595);
+    background-repeat: no-repeat;
+    background-position: center left;
+  background-size: cover;
+    font-size: 34px;
+    padding: 20px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    max-width: 1170px;
+    margin: 0 0 0 auto;
+    text-align: center;
+}
+h3.olympia span {
+    font-weight: 400;
+}
+.hero_product {
+    position: absolute;
+    z-index: 1;
+    top: 2%;
+      width: 100%;
+    height: 100%;
+}
+.hero_product img {
+    width: 100%;
+      height: 100%;
+    object-fit: cover;
+    object-position: top center;
+}
+img.mobilehero{
+  display:none;
+}
+
+
+/* .... Newtimerheader section ends here .... */
+
+#digital-appointments-select-time-btn button {
+    background: #1f9fe3;
+    color: white;
+    border: none;
+    border-radius: 25rem;
+}
+.product-form__item .product-form__cart-submit,.cart__submit{
+
+ background: #1f9fe3;
+    color: white;
+}
+
+
+/* <!-- .... Art gallery section starts here ....  -->  */
+.stateofartfacility .stateart {
+  border: 5px solid #cf22b8;
+  border-radius: 100px;
+}
+.stateofartfacility h2 {
+  font-family: "Organetto UltraBold Ext";
+
+  background: -webkit-linear-gradient(
+    45deg,
+    rgb(197, 51, 197),
+    rgb(50, 163, 207)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.stateofartfacility .stateart p.allnewart {
+  font-family: Montserrat;
+  word-spacing: 20px;
+  letter-spacing: 20px;
+
+  background: -webkit-linear-gradient(
+    45deg,
+    rgb(197, 51, 197),
+    rgb(50, 163, 207)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.stateofartfacility .stateart P.comingdate {
+  font-family: "Organetto UltraBold Ext";
+  word-spacing: 5px;
+  letter-spacing: 10px;
+
+  color: #1da0e3 !important;
+}
+/* <!-- .... Art gallery section ends here ....  -->  */
+
+
+/* footer icons  */
+
+footer .payment-icons-wrapper:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    height: 1px;
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 1px;
+}
+footer .payment-icons-wrapper {
+    position: relative;
+}
+footer .payment-icons-wrapper .payment-icons {
+    position: relative;
+    background-color: #3a3a3a;
+}
+.payment-cc-icon {
+    width: 50px;
+    height: 100%;
+}
+.copyright {
+    border-top: 1px solid #b3c0ca;
+    font-size: .75rem;
+}
+
+
+
+
+section.benefits.amb {
+    background: #ffffff;
+}
+
+
+.finalambassadoratheleteform {
+  background-image: url("https://cdn.shopify.com/s/files/1/0560/3321/4631/files/png_4284cd8d-015b-4512-9e30-505ea49afaf7.png?v=1629197896") !important;
+  background-size: cover;
+}
+.finalambassadoratheleteform .formsection input {
+      background: 0 0;
+    padding: 15px!important;
+    border: 2px solid #fff;
+    border-radius: 25rem;
+    display: inline-block;
+  color: #fff;
+} 
+.finalambassadoratheleteform .formsection input::placeholder {
+  color: #fff9fc !important;
+  font-size: 24px;
+  font-family: Montserrat;
+}
+.finalambassadoratheleteform input {
+  width: 100%;
+}
+.finalambassadoratheleteform h2 {
+  font-size: 36px;
+  font-family: "Organetto UltraBold Ext";
+}
+.finalambassadoratheleteform p {
+  font-size: 26px;
+  font-family: Montserrat;
+}
+.finalambassadoratheleteform button {
+  background-color: #fff !important;
+  border: 0;
+  font-size: 30px;
+  font-weight: 600;
+  border-radius: 30px;
+  padding: 6px 50px;
+  font-family: Montserrat;
+}
+.finalambassadoratheleteform button span {
+  background: -webkit-linear-gradient(45deg, #c533c5, #32a3cf);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/* / <!--finalambassador superstaratheleteform section ends -->  / */
+
+.bg-white.clienttestimonials {
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    margin: 1em 0;
+  	
+}
+
+#testimonialsection .bg-white.clienttestimonials {
+	 min-height: 595px;
+
+}
+
+/* levels */
+section.levels {
+    padding: 100px 0;
+    max-width: 1796px;
+    margin: 0 auto;
+}
+.levels_title img {
+    width: 100%;
+}
+.levels-content-wrapper {
+    max-width: 1480px;
+    margin: 0 auto;
+    position: relative;
+}
+.levels-content {
+    position: relative;
+    padding-top: 40px;
+}
+.levels-content:before {
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 4px;
+    left: 0;
+    top: 65px;
+    background-color: #4499dd;
+}
+.levels-content:last-child:before {
+    height: 100%;
+    top: 0;
+}
+.levels-content:last-child:after {
+    content: '';
+    position: absolute;
+    height: 12px;
+    width: 12px;
+    left: -4px;
+    bottom: 0;
+    background-color: #4499dd;
+    border-radius: 100%;
+}
+.levels-content h3 {
+    font-family: "Organetto UltraBold Ext";
+    color: #4499dd;
+    font-size: 45px;
+    letter-spacing: -2px;
+    margin: 0;
+    position: relative;
+    padding-left: 110px;
+}
+.levels-content h3:before {
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 100px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/work_levels_list_icon_d5ab1061-0733-463b-a58e-e8f1728e1475.png?v=1629208663);
+    background-repeat: no-repeat;
+    background-size: contain;
+    left: 0;
+    top: 0;
+}
+.levels-content ol {
+    padding:20px 0 0px  110px;
+    margin: 0;
+}
+.levels-content li {
+    color: #4499dd;
+    font-size: 28px;
+    letter-spacing: -1px;
+    line-height: 40px;
+}
+
+
+.justify-content-lg-start {
+    -ms-flex-pack: start!important;
+    justify-content: flex-start!important;
+}
+.c-icons .icon {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    text-align: center;
+    line-height: 40px;
+    background-color: #00a7e1;
+}
+
+
+
+
+
+
+section.newjoinreinventufamily {
+    box-shadow: 0px 0px 59.64px 24.36px rgb(0 0 0 / 10%);
+    position: relative;
+  	margin-bottom: 70px;
+}
+.hero-section-iv .mobile_img{
+  display:none;
+}
+
+
+/* our story page */
+
+.ourstoryherosection {
+  width: 100%;
+  height: 500px;
+  background-image: url("/s/files/1/0560/3321/4631/files/ourstoryheroimage2.jpg");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ourstoryherosection h2 {
+  font-size: 54px;
+  background: -webkit-linear-gradient(45deg, #c533c5, #32a3cf);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.ourstoryherosection p {
+  font-size: 21px;
+  color: #363636;
+}
+.middleherosection {
+  height: 300px;
+}
+
+.videoourstorysection {
+  position: relative;
+}
+.videoourstorysection img {
+  position: absolute;
+  top: -5rem;
+  padding: 0;
+}
+.playvideoourstorysection{
+  position: relative;
+  height: 36em;
+}
+.videoourstorysection video {
+  position: absolute;
+  top: -150px;
+  z-index: 1;
+  }
+
+.founderreinventusection {
+  margin-top: 500px;
+}
+.founderreinventusection img{
+  width: 100%;
+}
+.founderreinventusection .foundernamesection h6 {
+  font-size: 18px;
+}
+.founderreinventusection p {
+  font-size: 16px;
+  color: #262626;
+}
+.founderreinventusection button {
+  background-image: -webkit-linear-gradient(0deg, #dd4398 0, #00aeef 100%);
+  background-image: -ms-linear-gradient(0deg, #dd4398 0, #00aeef 100%);
+  border: 0;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 25rem;
+  padding: 6px 8px;
+  letter-spacing: 0;
+  color: #fff;
+  width: 100%;
+}
+
+
+.row.therapy-cols {
+    display: flex;
+    justify-content: center;
+}
+button{
+  transition: all 0.6s ease !important ;
+}
+button:hover{
+  transition: all 0.6s ease !important;
+}
+button.hero-btn:hover, .slider-btn:hover,
+.joinfamilyreinventu button:hover , .percent_btn:hover {
+    transform: translate(-50%) scale(1.06);
+    transition: all 0.6s ease;
+}
+
+.step-btn:hover, .testosterone_btn:hover, .mainherobar-iv button:hover, .btn-primary:hover, .gr-btn:hover, #ContactForm button:hover,
+.athletefomsection button:hover, #yourturn-section button:hover{
+transform: scale(1.06);
+    transition: all 0.6s ease;
+}
+
+img.mr-2{
+    max-width: 30px;
+}
+
+
+/* gym */
+
+.gym-hero{
+    position: relative;
+    text-align: center;
+  
+}
+.gym-hero .centered  {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.vice-bundle,.women-bundle, .Shed-bundle{
+  background: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/gr-bac.png?v=1634642867);
+    background-repeat: no-repeat;
+  
+    background-size: 80%;
+}
+
+
+.mens-bundle,.og-bundle, .gear-bundle{
+    background: url(https://cdn.shopify.com/s/files/1/0560/3321/4631/files/white-rect.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+  
+    background-size: 80%;
+}
+.gym-content {
+  
+    margin: auto;
+}
+img.miami-ts {
+    max-height: 380px;
+    padding: 2em;
+    margin: auto;
+    width: auto;
+  display: block;
+}
+
+.gym-btn {
+   background: #fff;
+    font-size: 1.4em;
+    display: block;
+    font-weight: 700;
+    border-radius: 30px;
+    padding: 5px 24px;
+    margin: auto;
+    border: none;
+}
+.bordered-dot {
+    padding: 1px 8px;
+    width: fit-content;
+    color: #fff;
+    border: 2px #efefef dashed;
+  letter-spacing: -1px;
+      font-size: 1.7em;
+    font-weight: 500;
+}
+span.green-dollar {
+    color: #42e53f;
+    font-weight: 700;
+  font-size: 40px;
+}
+button.Organetto_UltraBold.gym-btn2 {
+    margin: auto;
+    display: block;
+}
+.gym-btn2{
+    background-image: -webkit-linear-gradient(
+0deg,#dd4398 0,#00aeef 100%);
+    background-image: -ms-linear-gradient(0deg,#dd4398 0,#00aeef 100%);
+    border: 0;
+    font-size: 1.2em;
+    font-weight: 700;
+    border-radius: 30px;
+    padding: 6px 43px;
+    
+    letter-spacing: 0;
+}
+
+.dot2{
+    color: #000;
+    box-shadow: 0 0 6px 0 rgb(157 96 212 / 50%);
+
+    background-image: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0)),linear-gradient( 
+181deg,#78e4ff,#ff48fa);
+
+    box-shadow: 2px 1000px 1px #efefef inset;
+}
+.gear-bundle, .Shed-bundle, .og-bundle, .women-bundle, .mens-bundle, .vice-bundle {
+margin: 0 0 2em 0;
+}
+.whatbought{
+color: #80ca1f;
+  font-size: 14px;
+  text-transform: uppercase;
+  min-height: 60px;
+}
+
+/* click on click off  */
+/* <!-- fullbg-test-overhealth-section starts here ....  -->  */
+.fullbg-test-overhealth-section {
+  background-image: url("https://cdn.shopify.com/s/files/1/0560/3321/4631/files/Untitled-1.jpg?v=1634832026");
+  background-size: cover;
+}
+/* <!-- fullbg-test-overhealth-section endss here ....  -->  */
+
+/* <!-- test-overhealth-section starts here ....  -->  */
+
+ .test-overhealth-section {
+    margin-top: 0 !important;
+}
+.fullbg-test-overhealth-section {
+    padding-top: 70%;
+}
+.test-overhealth-section .whychoose-section h2 {
+  font-size: 38px;
+  font-family: "Montserrat";
+}
+.test-overhealth-section h3 {
+  font-size: 32px;
+  font-family: "Montserrat";
+}
+.test-overhealth-section p {
+  font-size: 16px;
+  font-family: Montserrat, "Myriad Pro";
+}
+.test-overhealth-section-button {
+  background-color: #ffff;
+  border: 0;
+  font-size: 1.4em;
+  font-weight: 700;
+  border-radius: 30px;
+  padding: 6px 50px;
+  font-family: "Montserrat";
+  letter-spacing: 0;
+}
+.test-overhealth-section-button span {
+  background: -webkit-linear-gradient(45deg, #c533c5, #32a3cf);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/* <!-- test-overhealth-section ends here ....  -->  */
+
+.newclienttestimonials .bg-white.clienttestimonials{
+min-height: 300px}
+
+.mobile-display {
+  display:none;
+}
+
+#newlrelese .arrows img {
+  
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 0!important;
+}
+
+/* apparel's page */
+.apparel-section > div{
+padding: 0;
+}
+.apparel-hero-info .heading{
+font-family: 'Organetto UltraBold Ext';
+    font-size: 1.8rem;
+}
+.apparel-hero-info{
+background: url("https://cdn.shopify.com/s/files/1/0560/3321/4631/files/apparel-hero1.png?v=1635248298");
+  background-size: contain;
+      display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    padding: 4em !important;
+
+    color: #fff;
+   
+}
+.quantity_new {
+    margin-top: 10px;
+    display: flex;
+}
+.quantity_new input{
+
+}
+#size-chart-btn a:hover , #size-chart-btn:hover  {
+    color: #000;
+}
+.apparel-hero-info p{
+color: #fff;
+}
+.shop-collection  .header{
+font-size: 2em;
+      margin-bottom: 1em;
+  font-family: 'Organetto UltraBold Ext';
+}
+.collection-features img {
+    width: auto;
+}
+.shop-collection  {
+padding: 2em 0;
+}
+.collection-features .feature {
+display: initial;
+    background: -webkit-linear-gradient(45deg ,#c533c5,#32a3cf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 16px;
+    margin: 1em;
+}
+
+.newrelease-collection{
+background-image: -webkit-linear-gradient(
+0deg,#dd4398 0,#00aeef 100%);
+ margin-bottom: 2em;
+  padding-bottom: 2em;
+
+}
+.newrelease-collection h4 {
+    color: #fff;
+    font-weight: 300;
+    font-size: 1.4rem;
+}
+.newrelease-collection .product-wrapper{
+background-color: #fff;
+}
+.newrelease-collection:before {
+
+    content: none !important;
+    
+}
+
+.flavor {
+    font-style: italic;
+}
+.flavor-label{
+font-weight: 600;
+}
+.ComboProductCard_carousel-wrap_aqLWZ {
+    display: none !important;
+}
+
+@media only screen and (min-width: 1025px) {
+.collection-display {
+  	display: inline-flex;
+    flex-wrap: wrap;
+    column-gap: 18px;
+}
+.collection-display .grid__item {
+    padding-left: 45px;
+    padding-right: 45px;
+    display: table-cell;
+    float: none;
+    border: 1px solid #d0d0d0;
+    border-radius: 1rem;
+    margin-bottom: 35px;
+    width: 30%;
+}
+.collection-display .product-card {
+    border: 0;
+    border-radius: 0;
+}
+
+.subscribe-section img {
+    width: 50px;
+}
+.collection-display .cart-btn {
+    
+    margin: auto;
+    
+}
+.collection-display .product-card {
+    position: relative;
+    height: 100%;
+ 
+}
+}
+.down-arrow-img {
+    background: #fff;
+    width: 42px;
+    height: 42px;
+    margin: 0 auto;
+    margin-bottom: -12px;
+    z-index: 99;
+    position: relative;
+    padding: 8px;
+    box-shadow: 1px 1px 6px 4px rgb(0 0 0 / 20%);
+}
+.apparel-head{
+padding: 35px  0 25px 0;
+}
+.desktop-apparel-img img{
+
+width: 95%;
+  margin: auto;
+  display: block;
+}
+.price__regular {
+    text-align: left;
+}
+.apparel-page .product-card p, .apparel-page ul li:nth-child(1) p {
+    min-height: revert !important;
+}
